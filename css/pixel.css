@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'pixel';
+    src:  url('../fonts/pixel/PixelUnicode.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+  }
