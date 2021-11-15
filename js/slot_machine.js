@@ -17,7 +17,7 @@ var wordlist = [
     'What\'s the latest?',
     'Don\'t forget to drink water',
     'Hi! I\'m Daniel!',
-    'Hey! im randomerz!',
+    'Hey! I\'m randomerz',
     'hello its me i am boomo',
     'You\'re watching the Boomo Channel',
     'Hi there! Please play my games',

@@ -143,6 +143,9 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(221,221,221,0.7);
   fill: rgba(221,221,221,0.7);
 }
+.fh5co-nav .fh5co-social li a svg {
+  height: 20px;
+}
 .fh5co-nav a {
   padding: 5px 0;
   color: #fff;
