@@ -30,7 +30,7 @@ var wordlist = [
     '방가방가',
     'Go to ==> randomerz.com <==',
     'Make a charisma roll',
-    'Don\t forget to join the boomo game jam',
+    'Don\'t forget to join the boomo game jam',
     'Give your nearest panda a hug! Immediately!',
     'Worthy opponent',
 ]
