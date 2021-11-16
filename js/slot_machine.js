@@ -32,6 +32,7 @@ var wordlist = [
     'Make a charisma roll',
     'Don\t forget to join the boomo game jam',
     'Give your nearest panda a hug! Immediately!',
+    'Worthy opponent',
 ]
 
 function buildSlotItem (text) {
