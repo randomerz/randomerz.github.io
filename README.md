@@ -1,7 +1,9 @@
 # randomerz.github.io
-randomerz website
+my personal website for showcasing games and other neat stuff
 
-CREDITS:
+no php :(
+
+### CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
