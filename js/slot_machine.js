@@ -22,17 +22,22 @@ var wordlist = [
     'You\'re watching the Boomo Channel',
     'Hi there! Please play my games',
     'I\'m Daniel, but you can call me boomo',
+    'Hello this is b- Daniel',
+    'Wishlist Slider on Steam',
 
     'hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi ',
     'whatsssssssssss sssssssssssss up',
     '!play christmas music',
     'おはようございます',
     '방가방가',
-    'Go to ==> randomerz.com <==',
+    'Follow me @randomerz_',
     'Make a charisma roll',
     'Don\'t forget to join the boomo game jam',
     'Give your nearest panda a hug! Immediately!',
     'Worthy opponent',
+    'Head pats all around',
+    'Average GDC enthusiast',
+    'Chad\'s winrate is positive',
 ]
 
 function buildSlotItem (text) {
