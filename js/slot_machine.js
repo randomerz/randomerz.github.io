@@ -24,6 +24,7 @@ var wordlist = [
     'I\'m Daniel, but you can call me boomo',
     'Hello this is b- Daniel',
     'Wishlist Slider on Steam',
+    'My grandkids will play Slider',
 
     'hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi ',
     'whatsssssssssss sssssssssssss up',
