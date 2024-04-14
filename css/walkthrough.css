@@ -1,0 +1,29 @@
+details > summary {
+    /* list-style: circle; */
+    display: list-item;
+
+    color: #fff;
+    font-family: "Montserrat", Arial, sans-serif;
+    font-weight: 400;
+    margin: 0 0 20px 0;
+}
+
+details > summary.header-1 {
+    font-size: 30px;
+}
+
+details > summary.header-2 {
+    font-size: 20px;
+}
+
+.spoiler, .spoiler a {
+    color: transparent;
+    background-color: black;
+    user-select: none;
+}
+
+.spoiler:hover, .spoiler:hover a {
+    color: inherit;
+    background-color: inherit;
+    user-select: inherit;
+}
