@@ -1,0 +1,221 @@
+﻿[//]: # Welcome to the Slider Walkthrough!
+
+
+[//]: # If you are seeing this, then that means you are reading the raw text guide. In general, the format is similar to markdown. This document is converted from a text file to HTML and hosted on my website at:
+
+
+[//]: # https://www.boomo.me/walkthroughs/slider.html
+
+
+[//]: # Here is a list of useful commands. Note that most of them only really apply if they are at the start of a line.
+
+
+[//]: # Title: # Village
+
+
+[//]: # Subtitle: ## Slider 1
+
+
+[//]: # Section: ### Building the Fish Bowl
+
+
+[//]: # Spoiler: || Find the Slider by assembling the tiles ||
+
+
+[//]: # Comment: [//]: # Looks like what we already have
+
+
+[//]: # Code: `this will essentially just put whatever you write in without the default <p> tags, so you can code HTML like this`
+
+
+[//]: # Code block: ```This will copy paste a section of code```
+
+
+[//]: # Style: <b>Bold</b>, <i>Italics</i>, or <u>Underline</u>
+
+
+[//]: # Images: Not supported yet :(
+
+
+[//]: # Let me know if you have any other suggestions!
+
+
+________________
+
+
+[//]: # This code block is the start of the web page, it’s just formatted a bit different than the other parts.
+
+
+```
+<div class="row top-line animate-box">
+        <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
+                <h2>Slider Walkthrough</h2>
+```
+
+
+This is the walkthrough guide for `<a href="../games/slider.html">Slider</a>`. It includes hints and solutions for each puzzle, separated by foldouts and spoilers. Let me know if you have any feedback and I can update the guide!
+
+
+In order to check hints for your current area, find the foldout for your area. Then open the foldout for the slider you are trying to get. For example, Village > Slider 8 will help explain how to get the 8th slider.
+
+
+```
+        </div>
+</div>
+```
+
+
+________________
+
+
+# Full Video Walkthrough
+
+
+Does not exist yet! I'll make it as we get closer to the full release.
+
+
+________________
+
+
+# General Advice
+
+
+Slider is hard! Most of the people I watch often have to take breaks between playing because otherwise they get super fatigued and end up slogging through everything. If "Insanity is doing the same thing over and over again and  expecting different results," then a lot of my friends must be insane when they play my game. When they come back, they often have a much better time  solving puzzles again.
+
+
+In general, each area's hardest puzzles are the 3rd and 6th tile puzzles. (This is because you have enough tiles for interesting interactions to happen, and it is before you get too many tiles that moving the grid is annoying!) The difficulty curve of each area is intentionally not smooth because it makes puzzles and challenges a bit more memorable.[a]
+________________
+
+
+# Village
+
+
+Stonybrook Village is the first area in the game. It should help you get acquainted with how the world works and how the gameplay loop flows.
+
+
+## Slider 2
+
+
+The game starts with you in your house. You pick up your Artifact off the floor and head outside to find the world in disarray. As you explore, you should be able to eventually find the 2nd Slider.
+
+
+Hint: ||Try moving the tile around and exploring everywhere. You can move on and off of your starting tile.||
+
+
+Solution: ||While on the starting tile, move to the top-right of the grid. There should be a small alcove area with a cow and the 2nd Slider.||
+
+
+## Slider 3
+
+
+Not Done
+
+
+## Slider 4
+
+
+Not Done
+
+
+## Slider 5
+
+
+Not Done
+
+
+## Slider 6
+
+
+Not Done
+
+
+## Slider 7
+
+
+Not Done
+
+
+## Slider 8
+
+
+Not Done
+
+
+## Slider 9
+
+
+Not Done
+________________
+# Caves
+
+
+Not done.
+________________
+
+
+# Ocean
+
+
+Not done.
+________________
+
+
+# Jungle
+
+
+Not done.
+________________
+
+
+# Desert
+
+
+Not done.
+________________
+
+
+# Factory
+
+
+Not done.
+________________
+
+
+# Military
+
+
+Not done.
+________________
+
+
+# Mountain
+
+
+Not done.
+________________
+
+
+# MagiTech
+
+
+Not done.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[a]This paragraph feels useless to me

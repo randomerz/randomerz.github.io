@@ -1,3 +1,8 @@
+details > details {
+    border-left: solid #828282;
+    padding-left: 10px;
+}
+
 details > summary {
     /* list-style: circle; */
     display: list-item;
@@ -5,7 +10,8 @@ details > summary {
     color: #fff;
     font-family: "Montserrat", Arial, sans-serif;
     font-weight: 400;
-    margin: 0 0 20px 0;
+    margin: 20px 0 0 0;
+    user-select: none;
 }
 
 details > summary.header-1 {
@@ -14,6 +20,12 @@ details > summary.header-1 {
 
 details > summary.header-2 {
     font-size: 20px;
+    /* margin: 0 0 20px 10px; */
+}
+
+details > summary.header-3 {
+    font-size: 16px;
+    /* margin: 0 0 20px 20px; */
 }
 
 .spoiler, .spoiler a {
