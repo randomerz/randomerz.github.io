@@ -3,7 +3,7 @@ import re
 input_file = 'Slider Walkthrough.txt'
 output_file = 'slider_walkthrough_out.txt'
 
-file_in = open(input_file, 'r')
+file_in = open(input_file, 'r', encoding="utf8")
 file_out = open(output_file, 'w')
 
 is_in_code_block = False

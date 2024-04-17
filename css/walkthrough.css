@@ -1,8 +1,3 @@
-details > details {
-    border-left: solid #828282;
-    padding-left: 10px;
-}
-
 details > summary {
     /* list-style: circle; */
     display: list-item;
@@ -26,6 +21,16 @@ details > summary.header-2 {
 details > summary.header-3 {
     font-size: 16px;
     /* margin: 0 0 20px 20px; */
+}
+
+details > details {
+    border-left: solid #828282;
+    padding-left: 10px;
+}
+
+details > p {
+    margin-bottom: 10px;
+    line-height: 1.4;
 }
 
 .spoiler, .spoiler a {
