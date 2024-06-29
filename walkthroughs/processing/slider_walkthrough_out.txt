@@ -16,20 +16,6 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Full Video Walkthrough</summary>
-
-			<p>
-				Does not exist yet! I'll make it as we get closer to the full release.
-			</p>
-		</details>
-		
-	</div>
-</div>
-
-<div class="row animate-box">
-	<div class="col-md-8 col-md-offset-2">
-		
-		<details>
 			<summary class="header-1">General Advice</summary>
 
 			<p>
@@ -90,7 +76,7 @@
 				<summary class="header-2">Slider 4</summary>
 
 				<p>
-					With 3 sliders on the map, this is where things get a bit tricky. It seems like there is no way to get onto the 3rd slider with the ‘U' shaped walls, but that's where the next piece is.
+					With 3 sliders on the map, this is where things get a bit tricky. It seems like there is no way to get onto the 3rd slider with the 'U' shaped walls, but that's where the next piece is.
 				</p>
 				<p>
 					Hint 1: 
@@ -107,7 +93,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Get on the 1st slider with the house and move it to the top right. There, you can move to the off-map section of the world. After that, you should be able to move the ‘U' shaped tile to the top right and get on it.
+						Get on the 1st slider with the house and move it to the top right. There, you can move to the off-map section of the world. After that, you should be able to move the 'U' shaped tile to the top right and get on it.
 					</span>
 				</p>
 			</details>
@@ -161,7 +147,7 @@
 				<p>
 					Solution Part 1: 
 					<span class="spoiler">
-						You need to assemble the ruins in the corner of 4 different tiles. You can see them in the world as well as on the corners of the icons on the map. One is on the top-right of the waterfall tile 6, one on the top-left of the horizontal river tile 2, one on the bottom-left of your starting tile 1, and the last on the bottom-right of the ‘U' shaped tile 3.
+						You need to assemble the ruins in the corner of 4 different tiles. You can see them in the world as well as on the corners of the icons on the map. One is on the top-right of the waterfall tile 6, one on the top-left of the horizontal river tile 2, one on the bottom-left of your starting tile 1, and the last on the bottom-right of the 'U' shaped tile 3.
 					</span>
 				</p>
 				<p>
@@ -254,8 +240,158 @@
 			<summary class="header-1">Caves</summary>
 
 			<p>
-				Not done.
+				Welcome to the Chloro Caves! What does Chloro mean? Well, I asked lead developer Boomo himself. According to him, Chloro stands for chlorophyll. This zone introduces fungi, a new type of obstacle that you'll have to navigate. Fungi, of course, do not possess chlorophyll.
 			</p>
+			<details>
+				<summary class="header-2">Slider 2</summary>
+
+				<p>
+					You start off with the first tile, having entered the caves from the south. If you're a crafty scoundrel, you may have found your way into the caves from a hidden entrance. On this tile, you'll find your first patch of fungi, and a Slider trapped within. But what other secrets do the caves hide?
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						There are many areas on the edges of the map you can access with just this first tile. Explore a bit.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						While on the starting tile, you can find the wrench in the bottom-left and the wire cutters in the top-left. Return them to the worker at the top-right of the grid, who will turn on the light and give you the second Slider.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 3</summary>
+
+				<p>
+					Some light will give you an opportunity to explore how the fungi works. Even better, Slider 3 is easily found with a little exploration.
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Use either of the lights to turn off the fungi. Then, you can pick up the third Slider.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 4</summary>
+
+				<p>
+					My god, another light! The fungi surely stand no chance against your electrical might now…
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						Remember the Slider trapped in the fungi on tile 1?
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Place the first tile in the top-right corner, exposing it to light from the right. Place the third tile underneath the first tile, exposing it to light from the bottom. This should remove enough fungi for you to grab Slider 4 from the first tile.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 5</summary>
+
+				<p>
+					On this tile is the cavern station. The power's gone out, and it's so dark that you can't even see the door!
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Move the tile with the light underneath Slider 4. This will allow you to enter the station. Upon entering the station, you will need to complete a quick minigame on the console in order to unlock Slider 5.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 6</summary>
+
+				<p>
+					Here you'll find another light, though the cable has been chewed up by rats. The archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
+				</p>
+				<p>
+					Solution Part 1: 
+					<span class="spoiler">
+						Pick up the Key collectible from Slider 5, and return it to the worker on the left inside the cavern station. This will allow you to switch on power, powering the light on Slider 5 if it is to the left of the cavern station. You can also see the power line on the map, which lights up yellow once powered.
+					</span>
+				</p>
+				<p>
+					Solution Part 2: 
+					<span class="spoiler">
+						Find the tile with the flashlight (the second tile you got, with the river and large bridge), and place lights above and to the left. That should allow you to access the flashlight in the fungi patch. Return it to the archeologist and pick up Slider 6.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 7</summary>
+
+				<p>
+					This tile is dominated by a massive field of fungi, with Slider 7 deep inside. You'll have to make full use of what you've learned so far to solve the puzzle, but it is possible!
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						This puzzle requires multiple moves, keep that in mind when setting up your grid.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Place the power station light in the center of the grid, the other light tile in the top left, and Slider 6 in the top middle. Enter the fungi field, and stand in the row where there is no rock on the right side. Slide Slider 6 to the right, and then move the single light tile underneath Slider 6. You can then pick up Slider 7.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 8</summary>
+
+				<p>
+					What's this? A rat has stolen Slider 8, and is now running away! Time for your best Tom and Jerry impression. 
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						The rat is faster, but you're smarter. Take advantage of the mechanics you've used so far, and your ability to move them.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						You can either corner the rat to catch it or chase it onto some removed fungi and then take away the light to regrow it. Either way, you now have Slider 8.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 9</summary>
+
+				<p>
+					The archeologist has already made a great discovery on tile 8, but she can't quite read the runes. Light up the entire map!
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						There are multiple configurations that may work, note that tiles change color when they are fully lit. If you want some direction to work towards, the "correct" tile configuration is also a valid solution (the missing tile will be in the bottom-left). If you've completed the final puzzle in Stonybrook Village, this will be a breeze. When the caves are lit, a short cutscene will play, and then you'll receive Slider 9.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Area Complete!</summary>
+
+				<p>
+					Congratulations, you finished the Chloro Caves! On the final tile you'll find a gaggle of pirates, along with the archeologist and Chad. Pick up the boating license, because it's your ticket to the Shifting Seas. Head back to the Stonybrook Village pier, and get sailing!
+				</p>
+			</details>
+			
 		</details>
 		
 	</div>
@@ -447,7 +583,7 @@
 				<summary class="header-2">Wrapping Up</summary>
 
 				<p>
-					After collecting all of the treasures from the seas, Bob asks you to put everything back to where it should be, one last time. You only need to place the three main island pieces in the top right, as well as the other shipwreck piece in the top left.
+					After collecting all of the treasures from the seas, Bob asks you to put everything back to where it should be, one last time. You only need to place the three main island pieces in the top right (The one with the tavern, and the two beaches connected to it).
 				</p>
 				<p>
 					Then, Bob cuts down the trees blocking the way to the Jungle.
@@ -660,8 +796,255 @@
 			<summary class="header-1">Desert</summary>
 
 			<p>
-				Not done.
+				The Impact Zone is the fifth level which contains an important relic to finish the Jungle. Instead of moving one tile at a time, all the tiles slide in one direction!
 			</p>
+			<details>
+				<summary class="header-2">Slider 2</summary>
+
+				<p>
+					The river from the jungle leads up here! Try to get used to how tiles move, talk to the crocodile, and explore the edges of the map.
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						The camper in the top right of the map holds the next tile.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						On the first tile, cross the bridge and go down to find a log. Pick up the log and bring it to the campfire in the off-map section in the top right of the grid.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 3 & 4</summary>
+
+				<p>
+					With the Oasis now on the map, try to connect it with the river piece so Crocodile can prepare.
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						Use the anchor to lock down one of the tiles!
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Walk onto either tile, lock it down with the anchor, then slide the other tile around so that the Oasis is on top of the river.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 5 & 6</summary>
+
+				<p>
+					Time to bring Baboon and Jackal to the party! Go to the tile with three trees on it to see the Baboon or visit the Jackal on the tile with a giant fossil.
+				</p>
+				<p>
+					Baboon Hint 1: 
+					<span class="spoiler">
+						One of the trees on the right side of the Oasis has something tied at its neck. Tie the rope from Baboon’s tree to it.
+					</span>
+				</p>
+				<p>
+					Baboon Hint 2: 
+					<span class="spoiler">
+						When testing the rope, keep Baboon’s tile and the Oasis next to each other.
+					</span>
+				</p>
+				<p>
+					Baboon Hint 3: 
+					<span class="spoiler">
+						Use the anchor to set up the horizontal and vertical slide respectively, or have all four tiles in a 2x2 square. If you have five tiles, have the fifth tile be in the same row as the Oasis and Baboon tiles
+					</span>
+				</p>
+				<p>
+					Baboon Hint 4: 
+					<span class="spoiler">
+						Shake the Baboon off the rope by separating the Oasis and Baboon’s original tile with the anchor.
+					</span>
+				</p>
+				<p>
+					Jackal Hint 1: 
+					<span class="spoiler">
+						Jackal’s new bone is located on the top left of the map.
+					</span>
+				</p>
+				<p>
+					Jackal Hint 2: 
+					<span class="spoiler">
+						Give Jackal enough momentum by sliding Jackal’s tile left towards the bone.
+					</span>
+				</p>
+				<p>
+					Jackal Solution: 
+					<span class="spoiler">
+						Talk to Jackal and progress his dialogue. Bring Jackal to the top left of the map. Once Jackal is on the left border of the giant fossil tile, isolate the top row of the map using the anchor, then slide right two tiles and left two tiles. Bring the Oasis to the top left after so Jackal can join the party.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 7</summary>
+
+				<p>
+					You’ll be able to find Gazelle and Chad in the Casino, but Gazelle’s in the VIP only section. To get in, you’ll need sunglasses! For now, Go into the casino and find Chad. Put the casino together, bring the dice over to Chad, and beat him at elevens!
+				</p>
+				<p>
+					Hint 1: 
+					<span class="spoiler">
+						Moving a Casino tile adds one to the dice on its respective half. Try to keep the Casino together.
+					</span>
+				</p>
+				<p>
+					Hint 2: 
+					<span class="spoiler">
+						When the Anchor is placed on a Casino tile, it sets the die on that tile to 1.
+					</span>
+				</p>
+				<p>
+					Hint 3: 
+					<span class="spoiler">
+						The easiest way to roll an 11 is to start with the two casino tiles next to each other. Set one of them to '2' and then use the anchor to set the other to a '1'. After that, move both tiles until they combine to an 11. Then, despair for Chad!
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 8</summary>
+
+				<p>
+					It's time for some mirages!
+				</p>
+				<details>
+					<summary class="header-3">Scroll Fragment</summary>
+
+					<p>
+						Talk to the VIP near the cactus at the bottom right of the tile with the tail of the giant fossil. Seems like if you can open the safe nearby, he’ll give you his sunglasses.
+					</p>
+					<p>
+						Hint 1: 
+						<span class="spoiler">
+							When you make a move, the two empty tiles will become a mirage! They show the past version of the two tiles that were originally in that spot.
+						</span>
+					</p>
+					<p>
+						Hint 2: 
+						<span class="spoiler">
+							Standing on a mirage tile and sliding will teleport you back to the present version of the tile in the same location.
+						</span>
+					</p>
+					<p>
+						Solution: 
+						<span class="spoiler">
+							Talk to the VIP on the tile with the tail of the giant fossil. Drink the cactus juice. Slide the left side of the casino to activate its mirage. Walk behind the counter on the Casino mirage tile, and slide anywhere to teleport to behind the counter on the normal casino. Grab the Scroll Fragment on the present version of the Casino Tile.
+						</span>
+					</p>
+				</details>
+				
+				<details>
+					<summary class="header-3">Melting the Safe</summary>
+
+					<p>
+						Time to crack open the safe! Seems like there’s still some power left in the dinosaur fossil. Go talk to the wizard on the mirage of the head of the fossil.
+					</p>
+					<p>
+						Hint 1: 
+						<span class="spoiler">
+							The Scroll Fragment moves the tile in the center to the highlighted empty tile.
+						</span>
+					</p>
+					<p>
+						Hint 2: 
+						<span class="spoiler">
+							To activate the dino laser, connect the mirage head of the fossil to the tail (present or mirage) then talk to the wizard! First line up the fossil, then move both tiles or just the head tile.
+						</span>
+					</p>
+					<p>
+						Hint 3: 
+						<span class="spoiler">
+							Use the Scroll Fragment to "duplicate" the tail tile so that the dino laser can hit the safe on the tail tile.
+						</span>
+					</p>
+					<p>
+						Solution Part 1: 
+						<span class="spoiler">
+							To turn on the laser, line up the tail and head fossils on the bottom row with two empty spaces on the top row, slide up. Move onto the mirage head tile and talk to the wizard.
+						</span>
+					</p>
+					<p>
+						Solution Part 2: 
+						<span class="spoiler">
+							Next, line the fossils up again with the tail in the center and the head to the right. Make sure there's an empty space in the top-right corner. Use the scroll fragment to move it there so that the laser shoots the safe. Get your reward and to the VIP.
+						</span>
+					</p>
+				</details>
+				
+				<details>
+					<summary class="header-3">Party Time!</summary>
+
+					<p>
+						Now with the shades, talk to Gazelle in the VIP section of the casino and see if you can bring him to the surprise party.
+					</p>
+					<p>
+						Solution: 
+						<span class="spoiler">
+							Bring the Oasis either to the left or below the right half of the Casino.
+						</span>
+					</p>
+				</details>
+				
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 9</summary>
+
+				<p>
+					Seems like the Archeologist is looking at a glowing tablet near some ruins. Reading the ruins shuffles everything! Why am I getting a sense of deja vu?
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						Just like the village, try solving one row completely first, and then put the remaining five tiles together. For the most part, this 8 puzzle can be completely solved using just slides, the Scroll Fragment, and the occasional anchor. Don’t be afraid to temporarily move one tile out of place so you can fix the order using the Scroll Fragment! (Diagonal moves are super powerful!)
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Scroll of Realigning</summary>
+
+				<p>
+					Head into the temple, move aside some rubble, and pick up the Scroll of Realigning. Though there’s no prize without a trap…
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						The room with the Scroll of Realigning is at the bottom of the temple. You may need to pick up some rocks to get there.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Move the rocks by picking them up and walk to the bottom chamber in the map. After the trap activates, click the new shiny tab in the artifact that shows up in place of the Scroll button! Boom, auto solved!
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Area Complete!</summary>
+
+				<p>
+					Now with the Scroll of Realigning, head back down to fix the Jungle, and then eastward towards the Factory!
+				</p>
+				<p>
+					With the Scroll of Realigning, you also unlock two extra powers. You can now Save & Load grids by clicking the => (Save) button and the <= (Load) button. This can be helpful if you want to save a puzzle setup before doing some execution with moving parts.
+				</p>
+			</details>
+			
 		</details>
 		
 	</div>
@@ -674,8 +1057,246 @@
 			<summary class="header-1">Factory</summary>
 
 			<p>
-				Not done.
+				The Rocket Factory is probably Slider's hardest area. It formally introduces power, wires, conveyors, and timed gates. It is also super puzzle dense.
 			</p>
+			<details>
+				<summary class="header-2">How do Timed Gates Work?</summary>
+
+				<p>
+					This section is here to spell out how timed gates work, in case you have any confusion about them! Part of the fun is figuring them out and finding the edge cases you can exploit, but it's also spelled out here in case it gets frustrating.
+				</p>
+				<p>
+					The goal of the timed gates is to power all of its inputs within a certain number of moves. You can see the inputs that you need to power as batteries near the gate, or also the LED indicators on the actual gate itself. If you can power all of them, then the gate will stay on forever.
+				</p>
+				<p>
+					The large number on the gate represents how many tile moves you have left. If the gate has a 2 on it, then you only have two tile moves to power the entire gate. Conveyors do not count towards this limit!
+				</p>
+				<p>
+					The moves are only counted once they <i>completely</i> finish though. This means that you can chain together conveyor belt moves in order to squeeze more out of the very last moves.
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 1</summary>
+
+				<p>
+					You can enter the Factory from the Jungle once you fix the minecart rail line and prove you have the Scroll of Realigning from the Desert. Once inside, you can talk to some NPCs and are introduced to the Timed Gate mechanic.
+				</p>
+				<p>
+					The first slider is in a closet above the starting area.
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						You'll have to activate the timed gate with the broken screen and power all three buttons connected to it. This should open the door and let you pick up the 1st Slider.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 2</summary>
+
+				<p>
+					We finally have a slider on the map! We still have to get onto it and explore a bit before we find more Sliders though.
+				</p>
+				<p>
+					Timed Gate: 
+					<span class="spoiler">
+						To leave the starting area, you'll have to activate the timed gate below the door. This has a button for one of the power sources you can stand on, and the other is a wire which connects to our new tile. Moving the tile may reset the timed gate since it only allows two tile moves.
+					</span>
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						You can use your anchor to hold the button down while you explore areas the door unlocks for you.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Once you are in the top-right part of the map, hitting the switch will open the door (and turn on the conveyor, stranding you). You can then move the conductive bob inside back and forth to get through to the other Slider.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 3</summary>
+
+				<p>
+					Our second slider has some giant magnets on it, which correspond to the giant magnets on the bottom-left of the map. That's where the 3rd slider is as well.
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						When powering the magnets, the conveyor won't move the tile.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Stand on the button and move the tile to the bottom left. Then, while on the edge of the button, place the anchor down so the button stays powered even when you leave. You should be able to safely walk down and pick up the 3rd tile.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 4</summary>
+
+				<p>
+					With 3 tiles, more timed gates means things get a bit more trickier. Three timed gates tricker in fact. 
+				</p>
+				<p>
+					Easy Timed Gate: 
+					<span class="spoiler">
+						Start on the tile with the timed gate on the right wall. Line up the other two so that they are above each other vertically. Then, you should be able to turn on the timed gate, and stand on the button to power the wire. You should be able to move to the other tile and slide the timed gate so that both get powered.
+					</span>
+				</p>
+				<p>
+					Hard Timed Gate Hint 1: 
+					<span class="spoiler">
+						Some conveyors can be turned on and off.
+					</span>
+				</p>
+				<p>
+					Hard Timed Gate Hint 2: 
+					<span class="spoiler">
+						Conveyor moves don't count towards the timed gates.
+					</span>
+				</p>
+				<p>
+					Hard Timed Gate Hint 3: 
+					<span class="spoiler">
+						Conveyors can move anchored tiles.
+					</span>
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Start with the top-right conveyor turned off. Set up the tiles so that the one with the door on the right is on the center-right. Then, put the first tile with the door on top in the top-right, and the tile with magnets in the top-center.
+					</span>
+				</p>
+				<p>
+					Solution Continued: 
+					<span class="spoiler">
+						Turn on the bathroom timed gate. Place your anchor on the top-right tile and turn on the conveyor to move it down. The timed gate should have one of the lines powered without using any moves. You can then walk onto the other tiles button and move it onto the conveyor. This will power the second line before the move finishes.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 5</summary>
+
+				<p>
+					With the 4th tile, you are asked to gather several parts in order to 3D print the next Slider. They can be found in 3 different locations around the factory. After you get all 3 pieces you can use the 3D printer and it will make the next slider for you.
+				</p>
+				<p>
+					Locations: 
+					<span class="spoiler">
+						The Base is on the same tile as the printer, the walls are in the top-left of the Factory, and the wires are in the bottom-right of the Factory.
+					</span>
+				</p>
+				<p>
+					Hint: 
+					<span class="spoiler">
+						One of the parts requires you to get a second item. You have the anchor already, but you need to somehow free the Conductive Bob from the gated area in the top-right of the map so that you can use it.
+					</span>
+				</p>
+				<p>
+					Base Solution: 
+					<span class="spoiler">
+						In order to access the base, you need to power both lines to open both doors. To do this, you need two items, like the above hint mentions. You can free the Conductive Bob by using the anchor to conduct the two pylons through the holes in the gate. You should be able to then walk in and pick up the bob, and then leave. After that, you can use the anchor and the bob to open both doors.
+					</span>
+				</p>
+				<p>
+					Walls Solution: 
+					<span class="spoiler">
+						The walls are behind the giant door in the top-left of the factory. You can power the timed gate near it using the tile with the printer.
+					</span>
+				</p>
+				<p>
+					Wires Solution: 
+					<span class="spoiler">
+						The wires are in the bottom-right of the Factory. Normally, the conveyor in the way will move tiles so you can't get there. However, if you jam three tiles in the bottom row of the grid, then the conveyor won't be able to push it and you can walk to the bottom of the Factory.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 6</summary>
+
+				<p>
+					The puzzle to get the 6th tile is a continuation of the Military game from the caves. Make sure to power the computers and then finish all the puzzles to win. 
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Actually this puzzle hasn't been implemented yet.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 7</summary>
+
+				<p>
+					Now, it's time to power the Mega Crystal! But, it needs 6 inputs? And it uses a 0 gate?!
+				</p>
+				<p>
+					Hint 1: 
+					<span class="spoiler">
+						If you try and set it up so that all the inputs are powered at the same time, you'll quickly notice that you need some tiles to be in multiple positions at the same time. Which isn't possible!
+					</span>
+				</p>
+				<p>
+					Hint 2: 
+					<span class="spoiler">
+						Timed Gates will stay active as long as a tile is moving.
+					</span>
+				</p>
+				<p>
+					Solution 1: 
+					<span class="spoiler">
+						In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop. Turn on the conveyor loop and watch as everything gets powered!
+					</span>
+				</p>
+				<p>
+					Solution 2: 
+					<span class="spoiler">
+						After the Crystal is powered, it should overload and cause a black out. You'll then have to use the crystal tile to power the server room and talk to Gene to run the server script. This will reset everything but also send you to the past.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 8</summary>
+
+				<p>
+					We've been transported to the past! Take some time to explore, this should be an easier section.
+				</p>
+				<p>
+					Solution: 
+					<span class="spoiler">
+						Gather some buoys and explode the rock in the top-right in order to get access to Slider 8.
+					</span>
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Slider 9</summary>
+
+				<p>
+					Fezziwig the wizard is here to help us get back to the future.
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Area Complete!</summary>
+
+				<p>
+					Congratulations, you finished the hardest area! After the Factory, the Foreman will task you with helping the Military south as well as fixing the Mountain area. You can do them in either order!
+				</p>
+			</details>
+			
 		</details>
 		
 	</div>
@@ -688,7 +1309,19 @@
 			<summary class="header-1">Military</summary>
 
 			<p>
-				Not done.
+				The Military region has you fighting, commanding your Robot army to defeat the apathetic Aliens. You get as many tries as you want to win this rock-paper-scissors area.
+			</p>
+			<p>
+				This area features a lot of randomness, so there is no explicit solution. However, we can try to give some tips.
+			</p>
+			<p>
+				- Try to win as often as you can (or tie if you can't). The first few waves of aliens will always go the same, but then it's up to you to maximize your potential.
+			</p>
+			<p>
+				- You don't have to use the supply reinforcements right away. Oftentimes it can be worth it to consider waiting until a better moment to create the troop.
+			</p>
+			<p>
+				- There are six waves total, with an increasing number of enemies. Additionally you will get a reinforcement roughly for every other Slider you pick up.
 			</p>
 		</details>
 		
@@ -701,6 +1334,9 @@
 		<details>
 			<summary class="header-1">Mountain</summary>
 
+			<p>
+				!! This area of the guide is not finished !!
+			</p>
 			<p>
 				The Crystal Mines is the eighth area and one of the most challenging in the game. This area contains a 3D grid, ice, lava, crystals, and a massive network of minecart tracks to navigate. 
 			</p>
@@ -738,6 +1374,9 @@
 			<details>
 				<summary class="header-2">Slider 3</summary>
 
+				<p>
+					Not done
+				</p>
 				<p>
 					On tile 2 you’ll find a basement, but the door is blocked by a crate and is locked. You’ll need to find a way to break the crate and obtain the key.
 				</p>
@@ -782,7 +1421,7 @@
 			</details>
 			
 			<details>
-				<summary class="header-2">Slider 5</summary>
+				<summary class="header-2">Slider 5 not done</summary>
 
 				<details>
 					<summary class="header-3">Obtaining the Minecart</summary>
@@ -823,6 +1462,9 @@
 			<details>
 				<summary class="header-2">Slider 7</summary>
 
+				<p>
+					Not done
+				</p>
 				<details>
 					<summary class="header-3">Repairing the Heater</summary>
 
@@ -866,7 +1508,7 @@
 			<summary class="header-1">MagiTech</summary>
 
 			<p>
-				Not done.
+				!! This area of the guide is not finished !!
 			</p>
 		</details>
 		
