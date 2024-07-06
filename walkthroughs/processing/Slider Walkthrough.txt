@@ -86,10 +86,10 @@ In general, each area's hardest puzzles are the 3rd and 6th tile puzzles. (This 
 ________________
 
 
-# Village
+# Stonybrook Village
 
 
-Stonybrook Village is the first area in the game. It should help you get acquainted with how the world works and how the gameplay loop flows.
+Stonybrook Village is the first area in the game. It will help you get acquainted with how the world works and how the gameplay loop flows. Fun fact: the original version of this area was made in just 48 hours for the 2021 GMTK game jam!
 
 
 ## Slider 2
@@ -110,7 +110,7 @@ Solution: ||While on the starting tile, move to the top-right of the grid. Above
 Soon after collecting the second tile, you can start to interact with traveling between tiles and the off-map sections on the edges. The third slider should be easy to access on the second tile.
 
 
-Solution: ||Talk to the Archeologist, the NPC on the slider near the ruins. If you keep talking to her she should give you the 3rd slider.||
+Solution: ||Talk to the Archeologist, the NPC on the slider near the ruins. If you keep talking to her will give you the 3rd slider.||
 
 
 ## Slider 4
@@ -125,13 +125,13 @@ Hint 1: ||Think outside the box!||
 Hint 2: ||Do you remember where you picked up the second slider collectible? Or perhaps, an inconspicuous cow on the map?||
 
 
-Solution: ||Get on the 1st slider with the house and move it to the top right. There, you can move to the off-map section of the world. After that, you should be able to move the 'U' shaped tile to the top right and get on it.||
+Solution: ||Get on the 1st slider with the house and move it to the top right. There, you can move to the off-map section of the world. After that, you can move the 'U' shaped tile to the top right and get on it.||
 
 
 ## Slider 5
 
 
-Now with 4 sliders, it should be easier to move around on the map. The 4th slider has Kevin asking you to rearrange and untangle his buoys. You can pick up and place them wherever you need.
+The 4th slider has Kevin asking you to rearrange and untangle his buoys. You can pick up and place them wherever you need.
 
 
 Solution: ||You have to make sure none of the buoy lines are intersecting. It's probably easier if you move all of them to one side. You can pick a buoy to start with, and follow the line detangling them one by one.||
@@ -143,7 +143,7 @@ Solution: ||You have to make sure none of the buoy lines are intersecting. It's 
 The newest tile has another house -- and inside is an emotional support cat. How nice! Outside, Juliette is looking for her lover somewhere else on the map.
 
 
-Solution: ||To reunite the lovers, move the tile with the man next to the tile with the woman so that they can see each other. This should be the 1st tile (with a house, the walls are an L shape), and the most recent 5th tile (with the other house, the walls are a reversed L shape).||
+Solution: ||To reunite the lovers, move the tile with the man next to the tile with the woman so that they can see each other. Those are the 1st tile (with a house, the walls are an L shape), and the most recent 5th tile (with the other house, the walls are a reversed L shape).||
 
 
 ## Slider 7
@@ -152,7 +152,7 @@ Solution: ||To reunite the lovers, move the tile with the man next to the tile w
 Our newest tile has a lot on it. Pierre, the fisherman, is asking for fish. There's also a waterfall and some ruins too.
 
 
-Hint 1: ||The fisherman is asking for fish, and the fish want to get to the waterfall in the top-left of the map. However, there aren't enough water tiles to bridge the gap. There's another way to progress forward.||
+Hint 1: ||The fisherman is asking for fish, and the fish wants to get to the waterfall in the top-left of the map. However, there aren't enough water tiles to bridge the gap. There's another way to progress forward.||
 
 
 Hint 2: ||When you assemble part of the river (the waterfall tile 7 next to the straight river tile 2), some of the ruins on the top of the tile line up.||
@@ -161,7 +161,7 @@ Hint 2: ||When you assemble part of the river (the waterfall tile 7 next to the 
 Solution Part 1: ||You need to assemble the ruins in the corner of 4 different tiles. You can see them in the world as well as on the corners of the icons on the map. One is on the top-right of the waterfall tile 6, one on the top-left of the horizontal river tile 2, one on the bottom-left of your starting tile 1, and the last on the bottom-right of the 'U' shaped tile 3.||
 
 
-Solution Part 2: ||Putting all 4 corners together should create a magical arrow which points you in a direction. If you follow the arrow to the tile it is pointing to (tile 5, below the house), there's a spot on the ground that should be glowing. You can interact with it to dig up the next slider.||
+Solution Part 2: ||Putting all 4 corners together creates a magical arrow which points you in a direction. If you follow the arrow to the tile it is pointing to (tile 5, below the house), there's a spot on the ground that is glowing. You can interact with it to dig up the next Slider.||
 
 
 ## Slider 8
@@ -170,10 +170,10 @@ Solution Part 2: ||Putting all 4 corners together should create a magical arrow 
 At last, the final river piece!
 
 
-Hint: ||Now that we have all 4 river sliders, we can finish the quest the fisherman by the waterfall and fish in the ocean had.||
+Hint: ||Now that we have all 4 river tiles, we can finish the quest the fisherman by the waterfall and fish in the ocean had.||
 
 
-Solution: ||Assemble the river from the waterfall in the top-left to the ocean in the middle right. The order should be waterfall in the top left (tile 6), horizontal river top middle (tile 2), corner top right with the buoys (tile 4), and finally the other corner you just got middle right (tile 7). Then, talking to the fish should populate the river and the fisherman by the waterfall will give you Slider 8.||
+Solution: ||Assemble the river from the waterfall in the top-left to the ocean in the middle right. The order is waterfall in the top left (tile 6), horizontal river top middle (tile 2), corner top right with the buoys (tile 4), and finally the other corner you just got middle right (tile 7). Then, talking to the fish will populate the river and the fisherman by the waterfall will give you Slider 8.||
 
 
 ## Slider 9
@@ -188,10 +188,10 @@ With 8 sliders on the grid, moving things around is getting really tricky!
 Chad has taken a piece of the ruins, but he won't let us take it from him. The dastardly man has jumped onto a rock with it too! There has to be a way to bring him down...
 
 
-Solution: ||If you give the tile a shake, Chad will lose his footing and fall off the rock. You should be able to pick up the piece of the ruins and turn it into the Archeologist on the horizontal river tile.||
+Solution: ||If you give the tile a shake, Chad will lose his footing and fall off the rock. You can pick up the piece of the ruins and turn it into the Archeologist on the horizontal river tile.||
 
 
-### Part 2
+### 8 Puzzle
 
 
 After turning in the ruins piece to the Archeologist, she reads them out loud and the map shuffles! It's time to put everything back in its right place and solve the eight puzzle.
@@ -217,7 +217,7 @@ ________________
 # Caves
 
 
-Welcome to the Chloro Caves! What does Chloro mean? Well, I asked lead developer Boomo himself. According to him, Chloro stands for chlorophyll. This zone introduces fungi, a new type of obstacle that you'll have to navigate. Fungi, of course, do not possess chlorophyll.
+Welcome to the Chloro Caves! What does Chloro mean? Chloro stands for chlorophyll. This zone introduces fungi, a new type of obstacle that you'll have to navigate. Fungi, of course, do not possess chlorophyll.
 
 
 ## Slider 2
@@ -229,7 +229,7 @@ You start off with the first tile, having entered the caves from the south. If y
 Hint: ||There are many areas on the edges of the map you can access with just this first tile. Explore a bit.||
 
 
-Solution: ||While on the starting tile, you can find the wrench in the bottom-left and the wire cutters in the top-left. Return them to the worker at the top-right of the grid, who will turn on the light and give you the second Slider.||
+Solution: ||While on the starting tile, you can find the wrench in the bottom-left and the wire cutters in the top-left of the outside map. Return them to the worker at the top-right of the grid, who will turn on the light and give you the second Slider.||
 
 
 ## Slider 3
@@ -238,7 +238,7 @@ Solution: ||While on the starting tile, you can find the wrench in the bottom-le
 Some light will give you an opportunity to explore how the fungi works. Even better, Slider 3 is easily found with a little exploration.
 
 
-Solution: ||Use either of the lights to turn off the fungi. Then, you can pick up the third Slider.||
+Solution: ||Use either of the lights to turn off the fungi on the tile you just got. Then, you can pick up the third Slider.||
 
 
 ## Slider 4
@@ -250,7 +250,7 @@ My god, another light! The fungi surely stand no chance against your electrical 
 Hint: ||Remember the Slider trapped in the fungi on tile 1?||
 
 
-Solution: ||Place the first tile in the top-right corner, exposing it to light from the right. Place the third tile underneath the first tile, exposing it to light from the bottom. This should remove enough fungi for you to grab Slider 4 from the first tile.||
+Solution: ||Place the first tile in the top-right corner, exposing it to light from the right. Place the third tile underneath the first tile, exposing it to light from the bottom. This will remove enough fungi for you to grab Slider 4 from the first tile.||
 
 
 ## Slider 5
@@ -259,7 +259,7 @@ Solution: ||Place the first tile in the top-right corner, exposing it to light f
 On this tile is the cavern station. The power's gone out, and it's so dark that you can't even see the door!
 
 
-Solution: ||Move the tile with the light underneath Slider 4. This will allow you to enter the station. Upon entering the station, you will need to complete a quick minigame on the console in order to unlock Slider 5.||
+Solution: ||Move the tile with the light underneath slider 4. This will allow you to enter the station. Upon entering the station, talk to Chad and you will receive Slider 5.||
 
 
 ## Slider 6
@@ -268,10 +268,13 @@ Solution: ||Move the tile with the light underneath Slider 4. This will allow yo
 Here you'll find another light, though the cable has been chewed up by rats. The archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
 
 
-Solution Part 1: ||Pick up the Key collectible from Slider 5, and return it to the worker on the left inside the cavern station. This will allow you to switch on power, powering the light on Slider 5 if it is to the left of the cavern station. You can also see the power line on the map, which lights up yellow once powered.||
+Hint: ||You’ll need to use the light on this tile in order to reach the flashlight, which is located on the slider with the big bridge.||
 
 
-Solution Part 2: ||Find the tile with the flashlight (the second tile you got, with the river and large bridge), and place lights above and to the left. That should allow you to access the flashlight in the fungi patch. Return it to the archeologist and pick up Slider 6.||
+Solution Part 1: ||Pick up the key collectible from Slider 5, and return it to the worker on the left inside the cavern station. This will allow you to switch on power, powering the light on Slider 5 if it is to the left of the cavern station. You can also see the power line on the map, which lights up yellow once powered.||
+
+
+Solution Part 2: ||Find the tile with the flashlight (the second slider you got, with the river and large bridge), and place lights above and to the left. That will allow you to access the flashlight in the fungi patch. Return it to the archeologist and pick up Slider 6.||
 
 
 ## Slider 7
@@ -321,7 +324,7 @@ ________________
 # Ocean
 
 
-The Shifting Seas fills the role of being this game's water level. Instead of sliding tiles around, you rotate them. There's a lot to do and explore!
+The Shifting Seas is Slider’s water level. Like most water levels, there’s a twist: instead of sliding tiles around, you rotate them. There's a lot to do and explore!
 
 
 ## Slider 2
@@ -330,28 +333,28 @@ The Shifting Seas fills the role of being this game's water level. Instead of sl
 Click on the arrows in the artifact in order to rotate tiles around.
 
 
-Solution: ||Move onto the first tile and walk over to the X. If you interact with the X, an NPC should appear, thanking you and giving you the next piece.||
+Solution: ||Move onto the first tile, dock the boat, and walk over to the X. If you interact with the X, you’ll dig Catbeard out of the sand, who will thank you and give you Slider 2.||
 
 
 ## Slider 3
 
 
-With the tavern unlocked, you should be able to meet Bob and some tavern goers. Bob won't respect you without an anchor though :(. You should be able to win at a game of dice though.
+With the tavern unlocked, you can meet Bob and some tavern goers. Bob won't respect you without an anchor though :(. There’s a Slider in the corner, blocked by pirates playing a game of dice. If you can defeat them, it’s all yours.
 
 
-Hint: ||You may have lost the initial roll, but you can still shake up the dice.||
+Hint: ||You may have lost the initial roll, but you can still shake up the dice.|| 
 
 
-Solution: ||If you move the tile, it will increment the number on the dice. Move the tavern tile a total of two times so that your total adds up to 11.||
+Solution: ||After rolling, if you move the tile, it will increment the number on the dice. Move the tavern tile two times so that your total adds up to 11. You’ll win the game and claim Slider 3||
 
 
 ## Slider 4
 
 
-Finally, the Anchor! One of the most powerful artifacts in Slider, it allows you to pin down a tile.
+Finally, the Anchor, one of the most powerful artifacts in Slider! It allows you to pin down a tile.
 
 
-Solution: ||In order to grab the anchor, you need to be in the water and move adjacent to it. Then you should be able to pick it up with 'e' and store it with 'q'. Once you have the anchor, return to Bob.||
+Solution: ||In order to grab the Anchor, you need to be in the water and move adjacent to it. Then you can pick it up with 'E' (or whatever key action is bound to) and store it with 'Q' (or whatever key cycle is bound to). Once you have the anchor, return to Bob.||
 
 
 ## Slider 5
@@ -378,7 +381,7 @@ You can ask Bob for hints in the game as well.
 ### Shipwreck
 
 
-The shipwreck is the easiest of all the new puzzles!
+The shipwreck is the easiest of all the new puzzles.
 
 
 Solution: ||You need to assemble the two pieces of the shipwreck on the map. If you investigate the area around it, you'll find a glowing spot you can interact with to dig up a Treasure Chest.||
@@ -399,7 +402,7 @@ Solution: ||It can help if you move the three main island pieces to the top-righ
 The Volcano puzzle requires you to place the volcano in the middle, and surround it with the other tiles with rocks.
 
 
-Solution: ||After placing the tile in the middle, you can anchor it and rotate the other tiles until 3 of the rocks line up. You can tell they line up when the blue orb appears over them. For the last one, try anchoring one of the outer tiles instead of the volcano to finish adjusting.||
+Solution: ||After placing the volcano tile in the middle, you can anchor it and rotate the other tiles until 3 of the rocks line up. You can tell they line up when the blue orb appears over them. For the last one, try anchoring one of the outer tiles instead of the volcano to finish adjusting.||
 
 
 ### The Foggy Seas
@@ -414,7 +417,7 @@ Hint 1: ||The hints are given from Bob, the short child Ike in the tavern, and b
 Hint 2: ||The sequence is West, South, West, West, North, West.||
 
 
-Solution: ||Start with both foggy tiles next to each other horizontally. Then, move from the right tile West, and it should light up one of the notes. Then, rotate the tiles so the other one is below yours, and move South onto it. The second note should be lit up. Continue this for West, West, North, West, and all 6 notes should light up.||
+Solution: ||Start with both foggy tiles next to each other horizontally. Then, move from the right tile West, and it will light up one of the notes. Then, rotate the tiles so the other one is below yours, and move South onto it. The second note will be lit up. Continue this for West, West, North, West, until all 6 notes light up and reveal a hidden island.||
 
 
 ### Romeo and Juliette
@@ -429,7 +432,7 @@ Hint 1: ||The bottle moves once whenever you move any tiles, and sinks after two
 Hint 2: ||The solution involves the Anchor.||
 
 
-Solution: ||In order to move the bottle in two moves from the top-left to bottom-right, you need to make two diagonal moves. This can be done with the Anchor. If you put an anchor on the top-center or left-center tiles, you can rotate the tiles so that it makes a diagonal move. You can pick up the anchor and repeat the process to deliver the bottle with 2 diagonal moves.||
+Solution: ||In order to move the bottle in two moves from the top-left to bottom-right, you need to make two diagonal moves. This can be done with the Anchor. If you put an anchor on the top-center or left-center tiles, you can rotate the tiles so that one of them makes a diagonal move. You can pick up the anchor and repeat the process to deliver the bottle with 2 diagonal moves.||
 
 
 ## Wrapping Up
@@ -438,13 +441,13 @@ Solution: ||In order to move the bottle in two moves from the top-left to bottom
 After collecting all of the treasures from the seas, Bob asks you to put everything back to where it should be, one last time. You only need to place the three main island pieces in the top right (The one with the tavern, and the two beaches connected to it).
 
 
-Then, Bob cuts down the trees blocking the way to the Jungle.
+Then, Bob cuts down the trees blocking the way to Canopy Town.
 
 
 ________________
 
 
-# Jungle
+# Canopy Town
 
 
 Canopy Town features shape production and combination in a messy start up. You'll have to move Blobs so that they make and combine shapes to fulfill customers' orders.
@@ -489,7 +492,7 @@ It's time for a race. With Chad!
 ### Setting up the Race
 
 
-There are a number of race cones representing the horizontal track between where Chad starts and the bell on the fat tile. The correct order should be tile 5 then 2/3. Before you can race though, Chad asks for a flag.
+There are a number of race cones representing the horizontal track between where Chad starts and the bell on the fat tile. To set up the track, place tile 5 to the left of tile 2/3. Before you can race though, Chad asks for a flag.
 
 
 Flag Solution: ||(Images are not currently supported :( sorry)||
@@ -745,7 +748,7 @@ You can enter the Factory from the Jungle once you fix the minecart rail line an
 The first slider is in a closet above the starting area.
 
 
-Solution: ||You'll have to activate the timed gate with the broken screen and power all three buttons connected to it. This should open the door and let you pick up the 1st Slider.||
+Solution: ||You'll have to activate the timed gate with the broken screen and power all three buttons connected to it. This will open the door and let you pick up the 1st Slider.||
 
 
 ## Slider 2
@@ -772,7 +775,7 @@ Our second slider has some giant magnets on it, which correspond to the giant ma
 Hint: ||When powering the magnets, the conveyor won't move the tile.||
 
 
-Solution: ||Stand on the button and move the tile to the bottom left. Then, while on the edge of the button, place the anchor down so the button stays powered even when you leave. You should be able to safely walk down and pick up the 3rd tile.||
+Solution: ||Stand on the button and move the tile to the bottom left. Then, while on the edge of the button, place the anchor down so the button stays powered even when you leave. You can safely walk down and pick up the 3rd tile.||
 
 
 ## Slider 4
@@ -781,7 +784,7 @@ Solution: ||Stand on the button and move the tile to the bottom left. Then, whil
 With 3 tiles, more timed gates means things get a bit more trickier. Three timed gates tricker in fact. 
 
 
-Easy Timed Gate: ||Start on the tile with the timed gate on the right wall. Line up the other two so that they are above each other vertically. Then, you should be able to turn on the timed gate, and stand on the button to power the wire. You should be able to move to the other tile and slide the timed gate so that both get powered.||
+Easy Timed Gate Solution: ||Start on the tile you just got with the timed gate on the right wall. Line up the tile with the magnets to the left and place the other tile above it. Then, turn on the timed gate and stand on the button to power the wire. Walk to the other tile, stand on the button, and slide the timed gate so the remaining wire is powered.||
 
 
 Hard Timed Gate Hint 1: ||Some conveyors can be turned on and off.||
@@ -793,10 +796,10 @@ Hard Timed Gate Hint 2: ||Conveyor moves don't count towards the timed gates.||
 Hard Timed Gate Hint 3: ||Conveyors can move anchored tiles.||
 
 
-Solution: ||Start with the top-right conveyor turned off. Set up the tiles so that the one with the door on the right is on the center-right. Then, put the first tile with the door on top in the top-right, and the tile with magnets in the top-center.||
+Solution Part 1: ||Start with the top-right conveyor turned off. Set up the tiles so that the one with the door on the right is on the center-right. Then, put the first tile with the door on top in the top-right, and the tile with magnets in the top-center.||
 
 
-Solution Continued: ||Turn on the bathroom timed gate. Place your anchor on the top-right tile and turn on the conveyor to move it down. The timed gate should have one of the lines powered without using any moves. You can then walk onto the other tiles button and move it onto the conveyor. This will power the second line before the move finishes.||
+Solution Part 2: ||Turn on the bathroom timed gate. Place your anchor on the top-right tile and turn on the conveyor to move it down. The timed gate should have one of the lines powered without using any moves. You can then walk onto the other magnet tile. Stand on the button and move the slider onto the conveyor. This will power the second line before the move finishes.||
 
 
 ## Slider 5
@@ -805,28 +808,31 @@ Solution Continued: ||Turn on the bathroom timed gate. Place your anchor on the 
 With the 4th tile, you are asked to gather several parts in order to 3D print the next Slider. They can be found in 3 different locations around the factory. After you get all 3 pieces you can use the 3D printer and it will make the next slider for you.
 
 
-Locations: ||The Base is on the same tile as the printer, the walls are in the top-left of the Factory, and the wires are in the bottom-right of the Factory.||
+Locations: ||The Base is on the same tile as the printer, the Walls are in the top-left of the Factory, and the Wires are in the bottom-right of the Factory.||
 
 
-Hint: ||One of the parts requires you to get a second item. You have the anchor already, but you need to somehow free the Conductive Bob from the gated area in the top-right of the map so that you can use it.||
+Hint: ||One of the parts requires you to get a second item. You have the Anchor already, but you need to somehow free the Conductive Bob from the gated area in the top-right of the map so that you can use it.||
 
 
-Base Solution: ||In order to access the base, you need to power both lines to open both doors. To do this, you need two items, like the above hint mentions. You can free the Conductive Bob by using the anchor to conduct the two pylons through the holes in the gate. You should be able to then walk in and pick up the bob, and then leave. After that, you can use the anchor and the bob to open both doors.||
+Base Solution: ||In order to access the base, you need to power both lines to open both doors. To do this, you need two items, like the above hint mentions. You can free the Conductive Bob by using the Anchor to conduct the two pylons through the holes in the gate. The you can walk in and pick up the Conductive Bob, and then leave. After that, you can use the Anchor and the Bob to open both doors.||
 
 
 Walls Solution: ||The walls are behind the giant door in the top-left of the factory. You can power the timed gate near it using the tile with the printer.||
 
 
-Wires Solution: ||The wires are in the bottom-right of the Factory. Normally, the conveyor in the way will move tiles so you can't get there. However, if you jam three tiles in the bottom row of the grid, then the conveyor won't be able to push it and you can walk to the bottom of the Factory.||
+Wires Solution: ||The wires are in the bottom-right of the Factory. Normally, the conveyor in the way will move tiles so you can't get there. However, if you jam three tiles in the bottom row of the grid, then the conveyor won't be able to push the tile and you can walk to the bottom of the Factory.||
 
 
 ## Slider 6
 
 
-The puzzle to get the 6th tile is a continuation of the Military game from the caves. Make sure to power the computers and then finish all the puzzles to win. 
+The puzzle to get the 6th tile involves powering several WiFi points around the Factory, timed-gate style. 
 
 
-Solution: ||Actually this puzzle hasn't been implemented yet.||
+Hint: ||Use the conveyors to your advantage, especially the window you have while the timed gate is flashing 0.||
+
+
+Solution: ||One solution is to set up the grid so that the server room tile is in the bottom-center and the tile with the wire pointing to the right is in the right-center. You can turn on the Timed Gate and walk to stand on the button to power it. Then, move the tile down so that you create a chain reaction of moves that will power all the WiFi points. You may need to clear some tiles out of the way or power more conveyors.||
 
 
 ## Slider 7
@@ -841,10 +847,13 @@ Hint 1: ||If you try and set it up so that all the inputs are powered at the sam
 Hint 2: ||Timed Gates will stay active as long as a tile is moving.||
 
 
-Solution 1: ||In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop. Turn on the conveyor loop and watch as everything gets powered!||
+Solution Part 1: ||In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. ||
 
 
-Solution 2: ||After the Crystal is powered, it should overload and cause a black out. You'll then have to use the crystal tile to power the server room and talk to Gene to run the server script. This will reset everything but also send you to the past.||
+Solution Part 2: ||First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop. Turn on the conveyor loop and watch as everything gets powered! You’ll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.||
+
+
+Solution Part 3: ||After the Crystal is powered, it will overload and cause a black out. You'll then have to use the crystal tile to power the server room and talk to Gene to run the server script. This will reset everything, but also send you to the past.||
 
 
 ## Slider 8
@@ -853,13 +862,25 @@ Solution 2: ||After the Crystal is powered, it should overload and cause a black
 We've been transported to the past! Take some time to explore, this should be an easier section.
 
 
-Solution: ||Gather some buoys and explode the rock in the top-right in order to get access to Slider 8.||
+Solution: ||Gather some conductive bobs and explode the rock in the top-right in order to get access to Slider 8.||
 
 
 ## Slider 9
 
 
-Fezziwig the wizard is here to help us get back to the future.
+With enough conductive bobs, Fezziwig the wizard is here to help us get back to the future.
+
+
+Hint 1: ||You have enough conductive bobs on the map to power the crystal. You can get one from Chad Sr., but he won’t just hand it to you.||
+
+
+Hint 2: ||After powering the crystal for the first time, a time glitch occurs! One of the tiles has been affected and has the Time Calibrator that Fezziwig requested.||
+
+
+Hint 3: ||In order to get the Time Calibrator, you'll need to unpower the doors while standing between them somehow.||
+
+
+Solution: ||Put a conductive bob on the left of the power pylons, but such that it's on the other tile. Then, you can go between the doors and move the Slider in order to disconnect the pylons. After that, power Fezziwig's crystal again and go back to the future!||
 
 
 ## Area Complete!
@@ -889,6 +910,16 @@ This area features a lot of randomness, so there is no explicit solution. Howeve
 
 
 - There are six waves total, with an increasing number of enemies. Additionally you will get a reinforcement roughly for every other Slider you pick up.
+
+
+-The next wave will spawn once all the aliens in the current wave are defeated. Once there are 1-2 aliens left, try to rearrange the map and toops to prepare for the next wave.
+
+
+-Try to keep the map as open as possible. It’s easier to escape a bad situation by sliding 2-3 tiles away vs moving a flag. Place sliders with walls near the edge of the map. 
+
+
+
+
 ________________
 
 
@@ -916,57 +947,98 @@ Solution: ||Use the anchor to bridge the gap in the wire on the top-left tile in
 ## Slider 2
 
 
-Not Done
-Mountain Climber
+Poor Bobbyjim is frozen in ice! You must learn how ice and lava work in order to free him
+
+
+Hint: ||Ice melts when within range of lava and freezes when on the top layer with no lava in range.||
+
+
+Solution: ||Move the slider so you can walk on it. Move it to the top layer to freeze the small ice patch and walk to Bobbyjim. Move the tile back to the bottom left corner of the lower layer in order to melt the ice around Bobbyjim.||
 
 
 ## Slider 3
-Not done
 
 
-On tile 2 you’ll find a basement, but the door is blocked by a crate and is locked. You’ll need to find a way to break the crate and obtain the key.
+A basement resides on Slider 2, but the door is locked and blocked by a frozen crate. You’ll need to find a way to break the crate and obtain the key.
 
 
 Hint 1: ||What large, heavy, metal object do you have that’s perfect for smashing stuff? Now that you’re in 3D, take head of gravity.||
 
 
-Hint 2: ||The worker on tile 1 has the key, but he needs some lava in the bucket to warm up. Is there a lava source we might be able to||
+Hint 2: ||Bobbyjim has the key, but he needs some lava in the bucket to warm up. Can you ||
+
+
+Solution Part 1: ||Use the anchor to smash the crate in front of the door.||
+
+
+Solution Part 2: ||Set up the Slider with the lava bucket on the bottom row of the bottom layer. Place the Slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the anchor or pick it up and bring it near a lava source to melt it. 
 
 
 ## Slider 4
 
 
-Tile 3 contains a massive waterwheel, used to generate power. Unfortunately, the gears have frozen over.
+This massive water wheel generates power for a variety of contraptions. Unfortunately, the gears have frozen over.
 
 
-Hint 1: ||How have you gotten rid of ice before? You’ll need a different method for each gear.||
+Hint 1: ||The river that runs along the left side of the top layer can provide flowing water.||
+
+Hint 2: ||How have you gotten rid of ice before? You’ll need a different method for each gear.||
 
 
-Solution Part 1: ||On the top level, put the waterwheel tile (tile 3) in the bottom left and the basement tile (tile 2) above it. The lava will melt the top gear. Place tile 1 underneath tile 3, then use the anchor to break the ice on the bottom gear.||
+Solution Part 1: ||On the top layer, put the water wheel Slider in the bottom left and the basement Slider above it. The lava will melt the top gear. Place the remaining Slider under the waterwheel, then use the anchor to break the ice on the bottom gear.||
 
 
-Solution Part 2: ||Bert the craftsman in the bottom left corner of the lower level will give you a toolbox free of charge. Bring it back to the waterwheel worker to fix the gears.||
+Solution Part 2: ||Bert the craftsman in the bottom left corner of the lower level will give you a toolbox free of charge. Bring it back to the waterwheel worker to fix the gears. Once the waterwheel is in position and both gears are unfrozen, it will generate power.||
 
 
-## Slider 5 not done
+## Slider 5
+
+
+The next Slider contains a crystal processing machine and a giant ice patch with a minecart rail across it. 
 
 
 ### Obtaining the Minecart
+After so long of being taunted by minecart tracks, you can finally obtain a minecart by clearing out the cave-in on the bottom right of the map.
 
 
-You now 
+Hint: ||You’ll need a lava source in order to set off the explosives.||
 
 
-Solution: ||Move tile 4, the one with the big ice patch, to the bottom right corner on the lower level. Talk to the NPC near the powered rails to activate the explosives, blowing up the wall and giving you the minecart||
+
+
+Solution: ||Move the slider you just got to the bottom right corner on the lower level. Talk to the NPC near the powered rails to activate the explosives, blowing up the wall and giving you the minecart||
+
+
+### Minecart Drop
+NOT DONE
+
+
 ### Crystals
+Sara, a researcher from the MRI, is investigating the crystal extractor. To help with her research, use the minecart to fill the extractor with crystals. Watch out; if you move a tile while the minecart is full of crystals, they will be destroyed!
 
-### Powering the Extractor
+
+Hint: ||You can form a single, continuous track from the powered rails to the crystal depositor to the crystal extractor. Make sure to pay attention to which direction the junctions are pointing.||
+
+Solution: ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal.
+
+
+### Powering the Extractor NOT DONE
+
+
+Hint: ||The generator is providing power to the elevator||
+
+
+Solution: ||Use the anchor to connect the elevator generator to the water wheel power line, which will connect to the extractor.||
 
 
 ## Slider 6
+It’s time to run the experiment. Unfortunately, the power overwhelms the generator, causing both it and the crystal extractor to be damaged. Looks like we have to fix them. You’ll need a crystal to fix the generator.
 
 
-### Fixing the Elevator
+Hint: ||The minecart will always exit the crystal loop on the opposite side from where it entered.||
+
+
+Hint: ||You can move tiles while the minecart is in the crystal loop
 
 
 ## Slider 7
@@ -980,17 +1052,22 @@ Not done
 ### Filling the Heater
 
 
-Hint 1: ||Take a look at the lava buckets on the forest (tile 1) and ice patch (tile 4) tiles. Does that shape look familiar?||
+Hint 1: ||Take a look at the lava buckets on the forest and ice patch sliders. Does that shape look familiar?||
 
 
+
+Solution Part 1: ||You can pass the minecart under a lavafall to fill it with lava.||
 
 
 ## Slider 8
 
 
-###
 
 
+
+
+## Area Complete!
+Time for some hot cocoa at the mountaintop station. After fixing the area, the engineer will give you a crystal sample to take back to the foreman. Once you defeat the aliens in The Flats, you can then access the MRI, the final area in the game!
 ________________
 
 
