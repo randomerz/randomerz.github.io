@@ -268,7 +268,7 @@ Solution: ||Move the tile with the light underneath slider 4. This will allow yo
 Here you'll find another light, though the cable has been chewed up by rats. The archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
 
 
-Hint: ||You’ll need to use the light on this tile in order to reach the flashlight, which is located on the slider with the big bridge.||
+Hint: ||You'll need to use the light on this tile in order to reach the flashlight, which is located on the slider with the big bridge.||
 
 
 Solution Part 1: ||Pick up the key collectible from Slider 5, and return it to the worker on the left inside the cavern station. This will allow you to switch on power, powering the light on Slider 5 if it is to the left of the cavern station. You can also see the power line on the map, which lights up yellow once powered.||
@@ -324,7 +324,7 @@ ________________
 # Ocean
 
 
-The Shifting Seas is Slider’s water level. Like most water levels, there’s a twist: instead of sliding tiles around, you rotate them. There's a lot to do and explore!
+The Shifting Seas is Slider's water level. Like most water levels, there's a twist: instead of sliding tiles around, you rotate them. There's a lot to do and explore!
 
 
 ## Slider 2
@@ -333,19 +333,19 @@ The Shifting Seas is Slider’s water level. Like most water levels, there’s a
 Click on the arrows in the artifact in order to rotate tiles around.
 
 
-Solution: ||Move onto the first tile, dock the boat, and walk over to the X. If you interact with the X, you’ll dig Catbeard out of the sand, who will thank you and give you Slider 2.||
+Solution: ||Move onto the first tile, dock the boat, and walk over to the X. If you interact with the X, you'll dig Catbeard out of the sand, who will thank you and give you Slider 2.||
 
 
 ## Slider 3
 
 
-With the tavern unlocked, you can meet Bob and some tavern goers. Bob won't respect you without an anchor though :(. There’s a Slider in the corner, blocked by pirates playing a game of dice. If you can defeat them, it’s all yours.
+With the tavern unlocked, you can meet Bob and some tavern goers. Bob won't respect you without an anchor though :(. There's a Slider in the corner, blocked by pirates playing a game of dice. If you can defeat them, it's all yours.
 
 
 Hint: ||You may have lost the initial roll, but you can still shake up the dice.|| 
 
 
-Solution: ||After rolling, if you move the tile, it will increment the number on the dice. Move the tavern tile two times so that your total adds up to 11. You’ll win the game and claim Slider 3||
+Solution: ||After rolling, if you move the tile, it will increment the number on the dice. Move the tavern tile two times so that your total adds up to 11. You'll win the game and claim Slider 3||
 
 
 ## Slider 4
@@ -602,22 +602,22 @@ Solution: ||Walk onto either tile, lock it down with the anchor, then slide the 
 Time to bring Baboon and Jackal to the party! Go to the tile with three trees on it to see the Baboon or visit the Jackal on the tile with a giant fossil.
 
 
-Baboon Hint 1: ||One of the trees on the right side of the Oasis has something tied at its neck. Tie the rope from Baboon’s tree to it.||
+Baboon Hint 1: ||One of the trees on the right side of the Oasis has something tied at its neck. Tie the rope from Baboon's tree to it.||
 
 
-Baboon Hint 2: ||When testing the rope, keep Baboon’s tile and the Oasis next to each other.||
+Baboon Hint 2: ||When testing the rope, keep Baboon's tile and the Oasis next to each other.||
 
 
 Baboon Hint 3: ||Use the anchor to set up the horizontal and vertical slide respectively, or have all four tiles in a 2x2 square. If you have five tiles, have the fifth tile be in the same row as the Oasis and Baboon tiles||
 
 
-Baboon Hint 4: ||Shake the Baboon off the rope by separating the Oasis and Baboon’s original tile with the anchor.||
+Baboon Hint 4: ||Shake the Baboon off the rope by separating the Oasis and Baboon's original tile with the anchor.||
 
 
-Jackal Hint 1: ||Jackal’s new bone is located on the top left of the map.||
+Jackal Hint 1: ||Jackal's new bone is located on the top left of the map.||
 
 
-Jackal Hint 2: ||Give Jackal enough momentum by sliding Jackal’s tile left towards the bone.||
+Jackal Hint 2: ||Give Jackal enough momentum by sliding Jackal's tile left towards the bone.||
 
 
 Jackal Solution: ||Talk to Jackal and progress his dialogue. Bring Jackal to the top left of the map. Once Jackal is on the left border of the giant fossil tile, isolate the top row of the map using the anchor, then slide right two tiles and left two tiles. Bring the Oasis to the top left after so Jackal can join the party.||
@@ -626,7 +626,7 @@ Jackal Solution: ||Talk to Jackal and progress his dialogue. Bring Jackal to the
 ## Slider 7
 
 
-You’ll be able to find Gazelle and Chad in the Casino, but Gazelle’s in the VIP only section. To get in, you’ll need sunglasses! For now, Go into the casino and find Chad. Put the casino together, bring the dice over to Chad, and beat him at elevens!
+You'll be able to find Gazelle and Chad in the Casino, but Gazelle's in the VIP only section. To get in, you'll need sunglasses! For now, Go into the casino and find Chad. Put the casino together, bring the dice over to Chad, and beat him at elevens!
 
 
 Hint 1: ||Moving a Casino tile adds one to the dice on its respective half. Try to keep the Casino together.||
@@ -645,7 +645,7 @@ It's time for some mirages!
 
 
 ### Scroll Fragment
-Talk to the VIP near the cactus at the bottom right of the tile with the tail of the giant fossil. Seems like if you can open the safe nearby, he’ll give you his sunglasses.
+Talk to the VIP near the cactus at the bottom right of the tile with the tail of the giant fossil. Seems like if you can open the safe nearby, he'll give you his sunglasses.
 
 
 Hint 1: ||When you make a move, the two empty tiles will become a mirage! They show the past version of the two tiles that were originally in that spot.||
@@ -660,7 +660,7 @@ Solution: ||Talk to the VIP on the tile with the tail of the giant fossil. Drink
 ### Melting the Safe
 
 
-Time to crack open the safe! Seems like there’s still some power left in the dinosaur fossil. Go talk to the wizard on the mirage of the head of the fossil.
+Time to crack open the safe! Seems like there's still some power left in the dinosaur fossil. Go talk to the wizard on the mirage of the head of the fossil.
 
 
 Hint 1: ||The Scroll Fragment moves the tile in the center to the highlighted empty tile.||
@@ -693,13 +693,13 @@ Solution: ||Bring the Oasis either to the left or below the right half of the Ca
 Seems like the Archeologist is looking at a glowing tablet near some ruins. Reading the ruins shuffles everything! Why am I getting a sense of deja vu?
 
 
-Hint: ||Just like the village, try solving one row completely first, and then put the remaining five tiles together. For the most part, this 8 puzzle can be completely solved using just slides, the Scroll Fragment, and the occasional anchor. Don’t be afraid to temporarily move one tile out of place so you can fix the order using the Scroll Fragment! (Diagonal moves are super powerful!)||
+Hint: ||Just like the village, try solving one row completely first, and then put the remaining five tiles together. For the most part, this 8 puzzle can be completely solved using just slides, the Scroll Fragment, and the occasional anchor. Don't be afraid to temporarily move one tile out of place so you can fix the order using the Scroll Fragment! (Diagonal moves are super powerful!)||
 
 
 ## Scroll of Realigning
 
 
-Head into the temple, move aside some rubble, and pick up the Scroll of Realigning. Though there’s no prize without a trap…
+Head into the temple, move aside some rubble, and pick up the Scroll of Realigning. Though there's no prize without a trap…
 
 
 Hint: ||The room with the Scroll of Realigning is at the bottom of the temple. You may need to pick up some rocks to get there.||
@@ -850,7 +850,7 @@ Hint 2: ||Timed Gates will stay active as long as a tile is moving.||
 Solution Part 1: ||In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. ||
 
 
-Solution Part 2: ||First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop. Turn on the conveyor loop and watch as everything gets powered! You’ll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.||
+Solution Part 2: ||First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop. Turn on the conveyor loop and watch as everything gets powered! You'll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.||
 
 
 Solution Part 3: ||After the Crystal is powered, it will overload and cause a black out. You'll then have to use the crystal tile to power the server room and talk to Gene to run the server script. This will reset everything, but also send you to the past.||
@@ -871,7 +871,7 @@ Solution: ||Gather some conductive bobs and explode the rock in the top-right in
 With enough conductive bobs, Fezziwig the wizard is here to help us get back to the future.
 
 
-Hint 1: ||You have enough conductive bobs on the map to power the crystal. You can get one from Chad Sr., but he won’t just hand it to you.||
+Hint 1: ||You have enough conductive bobs on the map to power the crystal. You can get one from Chad Sr., but he won't just hand it to you.||
 
 
 Hint 2: ||After powering the crystal for the first time, a time glitch occurs! One of the tiles has been affected and has the Time Calibrator that Fezziwig requested.||
@@ -915,7 +915,7 @@ This area features a lot of randomness, so there is no explicit solution. Howeve
 -The next wave will spawn once all the aliens in the current wave are defeated. Once there are 1-2 aliens left, try to rearrange the map and toops to prepare for the next wave.
 
 
--Try to keep the map as open as possible. It’s easier to escape a bad situation by sliding 2-3 tiles away vs moving a flag. Place sliders with walls near the edge of the map. 
+-Try to keep the map as open as possible. It's easier to escape a bad situation by sliding 2-3 tiles away vs moving a flag. Place sliders with walls near the edge of the map. 
 
 
 
@@ -959,10 +959,10 @@ Solution: ||Move the slider so you can walk on it. Move it to the top layer to f
 ## Slider 3
 
 
-A basement resides on Slider 2, but the door is locked and blocked by a frozen crate. You’ll need to find a way to break the crate and obtain the key.
+A basement resides on Slider 2, but the door is locked and blocked by a frozen crate. You'll need to find a way to break the crate and obtain the key.
 
 
-Hint 1: ||What large, heavy, metal object do you have that’s perfect for smashing stuff? Now that you’re in 3D, take head of gravity.||
+Hint 1: ||What large, heavy, metal object do you have that's perfect for smashing stuff? Now that you're in 3D, take head of gravity.||
 
 
 Hint 2: ||Bobbyjim has the key, but he needs some lava in the bucket to warm up. Can you ||
@@ -982,7 +982,7 @@ This massive water wheel generates power for a variety of contraptions. Unfortun
 
 Hint 1: ||The river that runs along the left side of the top layer can provide flowing water.||
 
-Hint 2: ||How have you gotten rid of ice before? You’ll need a different method for each gear.||
+Hint 2: ||How have you gotten rid of ice before? You'll need a different method for each gear.||
 
 
 Solution Part 1: ||On the top layer, put the water wheel Slider in the bottom left and the basement Slider above it. The lava will melt the top gear. Place the remaining Slider under the waterwheel, then use the anchor to break the ice on the bottom gear.||
@@ -1001,7 +1001,7 @@ The next Slider contains a crystal processing machine and a giant ice patch with
 After so long of being taunted by minecart tracks, you can finally obtain a minecart by clearing out the cave-in on the bottom right of the map.
 
 
-Hint: ||You’ll need a lava source in order to set off the explosives.||
+Hint: ||You'll need a lava source in order to set off the explosives.||
 
 
 
@@ -1032,7 +1032,7 @@ Solution: ||Use the anchor to connect the elevator generator to the water wheel 
 
 
 ## Slider 6
-It’s time to run the experiment. Unfortunately, the power overwhelms the generator, causing both it and the crystal extractor to be damaged. Looks like we have to fix them. You’ll need a crystal to fix the generator.
+It's time to run the experiment. Unfortunately, the power overwhelms the generator, causing both it and the crystal extractor to be damaged. Looks like we have to fix them. You'll need a crystal to fix the generator.
 
 
 Hint: ||The minecart will always exit the crystal loop on the opposite side from where it entered.||
@@ -1052,7 +1052,7 @@ Not done
 ### Filling the Heater
 
 
-Hint 1: ||Take a look at the lava buckets on the forest and ice patch sliders. Does that shape look familiar?||
+Hint 1: ||Take a close look at the lava buckets you've seen previously. Does that shape look familiar?||
 
 
 
@@ -1071,8 +1071,205 @@ Time for some hot cocoa at the mountaintop station. After fixing the area, the e
 ________________
 
 
-# MagiTech
+# Magitech
 
 
-!! This area of the guide is not finished !!
-________________
+Welcome to Magic Research Institute, the final level of Slider! This area features present and past versions of tiles, with a desync mechanic centered around the anchor. Start by walking over to the bottom right corner of the map and talk to Alchemist Muta.
+
+
+## Gems
+
+
+In addition to filling (both) grids, you also have to find 9 gems to power the Gem Fuel machine. You'll probably find most of them as you play, but here are all of the gems in case you missed some.
+
+
+### Ocean Gem
+
+
+Fezziwig has the first gem on the bottom right corner of the map. Go and talk to him.
+
+
+Solution: ||Pick up and deliver gems to the Gem Fuel machine by pressing 'e' (or your key bind for interact).||
+
+
+### Desert Gem
+
+
+After activating the Desert portal, go back into the Desert Temple and explore more of the temple.
+
+
+Solution: ||The Desert gem is in the Desert temple, on the right side of the underground portion.||
+
+
+### Military Gem
+
+
+Wouldn't be a Magic Research Institute without lasers! Looks like there are some big rocks you can blow up around here, and the Military Gem is in the bottom left corner blocked by one. See if the laser cannon on the second tile can help clear the way.
+
+
+Hint: ||On the laser tile, activate the laser by flipping the switch below the cannon. You can send the laser through the portal.||
+
+
+Solution: ||The Military Gem is on the left side of the past behind a giant rock. Arm the rock with explosives by interacting with the bomb sign near it. You can shoot the laser through the portal and blow up the rock and collect the gem.||
+
+
+### Village Gem
+
+
+The Village Gem is on the top right of the laser tile. But it's locked behind an electric door that's activated by a pressure plate on the inside?
+
+
+Hint: ||Changing the position of an item in the past affects the position of the item in the present. See if you can use the bob on the portal tile.||
+
+
+Solution: ||Without the anchor on any tile, pick up the purple bob on the past portal tile, and bring it to the top right of the past laser tile, and place it within the box. Return to the present laser tile to pick up the gem.||
+
+
+### Mountory Gem (Mountain and Factory)
+
+
+See the hints for Slider 4.
+
+
+### Caves Gem
+
+
+The Caves Gem is located on the bottom right side of the map in the past. Use the purple and yellow bobs to get inside.
+
+
+Hint: ||You'll have to use the entangled conductive bobs, but no desyncs required!||
+
+
+Solution: ||Bring the purple bob down and place it in front of the first closed door. Go to the present near the gem machine to pick up the yellow bob and place it to connect the wires. Walk through the first door and pick up the purple bob. This will reset the present bob's position. Collect the gem, flip the switch and walk out.||
+
+
+### Jungle Gem
+
+
+A wizard in the village in the past has the gem, but he's asking for one million dollars!
+
+
+Hint: ||The safe in the desert casino has a lot of money!||
+
+
+Solution: ||Shoot the laser through the present portal into the top left of the map to the portal leading to the Desert. Go through the portal, set the bombs outside the right side of the casino, take the money, and run away! You can pay the wizard in the past village and Grab the Jungle Gem and the Gem Fuel recipe.||
+
+
+### MagiTech Gem
+
+
+Go to the final tile and talk to the voice on the reflection pool.
+
+
+Solution: ||Use the Scroll of Realigning to put all the MagiTech tiles in their proper place. Turn in the artifact by advancing the dialogue at the reflection pool.||
+
+
+## Slider 1
+
+
+Grab the Ocean Gem, put it in the machine, then talk to Alchemist Muta to get a nifty Gem Transporter and the first Slider.
+
+
+Solution: ||Go right past the Gem Fuel machine, pick up the Ocean Gem, and use it near the machine to place it in. Talk to Muta and pick up the Gem Transporter, then pick up the Ocean Gem again.||
+
+
+## Slider 2
+
+
+Seems like no matter where you go, Chad beats you to the frontiers of new places to explore. Hop into the portal and see if you can find him.
+
+
+Solution: ||You can find Chad in the top-left of the past version of the map.||
+
+
+## Slider 3
+
+
+The scientist on the laser tile seems like he needs help getting testing out the laser. Try blowing up the big rock in the past version of the laser tile.
+
+
+Hint: ||Dropping the anchor on a tile in the present causes a desync -- it locks the tile in place, but enables you to move it elsewhere in the past.||
+
+
+Solution: ||Move the laser to the right side of the grid with the portal in the center. Drop the anchor on the laser tile, take the portal into the past, and move the past laser tile around to the left of the portal. Talk to the bomb sign to blow up the rock, pick up the Oil, and bring it back to the scientist on the laser tile.||
+
+
+## Slider 4
+
+
+Head into the Museum, and you'll find the Curator, who tells you that two wizards had a duel and both died, and that the shield generator on display is a relic from that duel. See if you can settle the dispute on the past museum tile.
+
+
+Hint: ||To get access to the present shield generator, give one of the wizards the shield generator in the past.||
+
+
+Solution: ||On the past museum tile, move the purple shield generator to either one of the wizard's boxes. Go to the present museum tile and grab the yellow shield generator from the upper floor of the museum, and bring it to the other wizard. Run back to the museum and talk to the curator and pick up the Mountory Gem while you're at it (Poor curator. His worries came true).||
+
+
+## Slider 5
+
+
+On the new tile, there's a VERY hungry worker, who isn't satisfied with just one burger. See if you can get him a burger from the past as well?
+
+
+Hint: ||There's a way to "cut" the flow of time between the past and present of a tile.||
+
+
+Solution: ||Anchor the Hungry Worker's tile down, swap to the past and activate a desync by moving the past tile to a different location. The past burger should now have a lightning effect. Take the past burger and place it on the table next to the hungry worker. Then take the "contraband" he found.||
+
+
+## Slider 6
+
+
+The castle in the past version of the new tile holds the next slider piece. But the only bridge to get there is broken, and a shroom-hatted wizard is somehow afraid of mushrooms?
+
+
+Hint: ||Hitting the mushrooms with the laser will cause them to shrink.||
+
+
+Solution: ||Line up the castle and the bridge in one row, and the portal and the laser in another row. Anchor the present portal and bring it to the same row as the castle. Talk to the shroom-hatted wizard and cross the bridge into the castle.||
+
+
+## Slider 7
+
+
+Below the rocket which you'll be riding, an engineer needs four Oils for reserve fuel. Find them inside explodable rocks and nearby.
+
+
+Hint 1: ||There's one oil hiding on the top right of the rocket launchpad.||
+
+
+Hint 2: ||The other two oils are inside explodable rocks: one in the past and the other in the present.||
+
+
+Hint 3: ||To explode the rock in the present, you'll need to pass the laser through the portal twice.||
+
+
+Solution: ||You should already have one oil. Pick up the second oil on the top right of the rocket tile. Line up the rocket, portal, and laser tiles from left to right, then blow up the rock in the past rocket tile. For the present rock, first line up the rocket, hungry worker tile, and laser on the bottom row, and anchor the present laser tile. The laser should reflect upwards in the middle. Place the portal in the middle of the left side with the museum above it, then place the present explodable rock in the top right corner. Move to the past. There should be a path to desync the past laser tile and move it to the center of the top row. Move the portal one tile right to the center and the rocket up one tile. The laser should start on the bottom right, reflect up into the portal in the middle, loop counter-clockwise in the past, and come out the right side of the present portal. Go explode the present rock and return to the rocket engineer near the launchpad.||
+
+
+## Slider 8
+
+
+Slider 8 can be found trapped behind a similar puzzle to the Caves Gem on the tile with two buildings on it. Use the desync lever interactions to get inside.
+
+
+Hint: ||You can move tiles while previewing the past (with "Shift" by default) to desync/resync. Alternatively you can put down/lift the anchor near the doors.||
+
+
+Solution: ||Flip the switch in the past so that the outer door is open. Place the anchor on the present "safe" tile. Go back to the past, desync the tile by moving it, flip the switch so that the inner door is open, then go back to the present. Walk through the outer door, then resync by holding the keyboard bind for preview down and shifting the tile back, or pick up the anchor while still inside the outer door. This should shut the outer door and open the inner one. Flip the switch to get out.||
+
+
+## Slider 9
+
+
+Collect all the gems except the MagiTech Gem, then talk to Alchemist Muta to get the final Slider!
+
+
+## Blast Off!
+
+
+What a journey! Once you've collected all the gems, talk to Alchemist Muta to get the fuel pumping to the rocket. Interact with the door near the launchpad, and you'll be on your way to being reunited with your cat! 
+
+
+Once again, thanks for playing Slider!
