@@ -3,9 +3,6 @@
                 <h2>Slider Walkthrough</h2>
 
 <p>
-	<i>If you're seeing this now, then hopefully that means that you are a beta tester! Thank you for your time! If you aren't... then this is a bit awkward... Let us know how you found it please!</i>
-</p>
-<p>
 	This is the walkthrough guide for <a href="../games/slider.html">Slider</a>. It includes hints and solutions for each puzzle, separated by foldouts and spoilers. Let me know if you have any feedback and I can update the guide!
 </p>
 <p>
@@ -19,7 +16,7 @@
 			<summary class="header-1">General Advice</summary>
 
 			<p>
-				Slider is hard! Most of the people I watch often have to take breaks between playing because otherwise they get super fatigued and end up slogging through everything. If "Insanity is doing the same thing over and over again and  expecting different results," then a lot of my friends must be insane when they play my game. When they come back, they often have a much better time  solving puzzles again.
+				Slider is hard! Most of the people I watch often have to take breaks between playing because otherwise they get super fatigued and end up slogging through everything. If "insanity is doing the same thing over and over again and  expecting different results," then a lot of my friends must be insane when they play my game. When they come back, they often have a much better time  solving puzzles again.
 			</p>
 			<p>
 				In general, each area's hardest puzzles are the 3rd and 6th tile puzzles. (This is because you have enough tiles for interesting interactions to happen, and it is before you get too many tiles that moving the grid is annoying!) The difficulty curve of each area is intentionally not smooth because it makes puzzles and challenges a bit more memorable.
@@ -42,7 +39,7 @@
 				<summary class="header-2">Slider 2</summary>
 
 				<p>
-					The game starts with you in your house. You pick up your Artifact off the floor and head outside to find the world in disarray. As you explore, you should be able to eventually find the 2nd Slider.
+					The game starts with you in your house. You pick up The Artifact off the floor and head outside to find the world in disarray. As you explore, you should be able to eventually find the 2nd Slider.
 				</p>
 				<p>
 					Hint: 
@@ -67,7 +64,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Talk to the Archeologist, the NPC on the slider near the ruins. If you keep talking to her will give you the 3rd slider.
+						Move the tile with the house to the left of the tile with the river section. Talk to the Archeologist, the NPC on the slider, near the ruins. If you keep talking to her, she will give you the 3rd slider.
 					</span>
 				</p>
 			</details>
@@ -87,13 +84,13 @@
 				<p>
 					Hint 2: 
 					<span class="spoiler">
-						Do you remember where you picked up the second slider collectible? Or perhaps, an inconspicuous cow on the map?
+						Do you remember where you picked up the second Slider collectible? Or perhaps, an inconspicuous cow on the map?
 					</span>
 				</p>
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Get on the 1st slider with the house and move it to the top right. There, you can move to the off-map section of the world. After that, you can move the 'U' shaped tile to the top right and get on it.
+						Get on the 1st slider with the house and move it to the middle right. Walk off the tile to the right and walk down to grab the coffee from the beach. Get back on the tile and move it to the top right. There, you can walk to the off-map section of the world. After that, you can move the 'U' shaped tile to the top right and get on it.
 					</span>
 				</p>
 			</details>
@@ -107,7 +104,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						You have to make sure none of the buoy lines are intersecting. It's probably easier if you move all of them to one side. You can pick a buoy to start with, and follow the line detangling them one by one.
+						You have to make sure none of the buoy lines are intersecting. It's probably easier if you move all of them to one side. You can pick a buoy to start with, and follow the line detangling them one by one. To get around the river, you'll have to move other Sliders next to the tile with the buoys on it
 					</span>
 				</p>
 			</details>
@@ -141,7 +138,7 @@
 				<p>
 					Hint 2: 
 					<span class="spoiler">
-						When you assemble part of the river (the waterfall tile 7 next to the straight river tile 2), some of the ruins on the top of the tile line up.
+						When you assemble part of the river (the waterfall tile 6 next to the straight river tile 2), some of the ruins on the top of the tile line up.
 					</span>
 				</p>
 				<p>
@@ -153,7 +150,7 @@
 				<p>
 					Solution Part 2: 
 					<span class="spoiler">
-						Putting all 4 corners together creates a magical arrow which points you in a direction. If you follow the arrow to the tile it is pointing to (tile 5, below the house), there's a spot on the ground that is glowing. You can interact with it to dig up the next Slider.
+						Putting all 4 corners together creates a magical arrow which points you in a direction. If you follow the arrow to the tile it is pointing to (tile 5, below the house), there's a rock on the ground that is glowing. You can interact with it to dig up the next Slider.
 					</span>
 				</p>
 			</details>
@@ -188,12 +185,12 @@
 					<summary class="header-3">Chad</summary>
 
 					<p>
-						Chad has taken a piece of the ruins, but he won't let us take it from him. The dastardly man has jumped onto a rock with it too! There has to be a way to bring him down...
+						Chad has taken a relic, but he won't let us take it from him. The dastardly man has jumped onto a rock with it too! There has to be a way to bring him down...
 					</p>
 					<p>
 						Solution: 
 						<span class="spoiler">
-							If you give the tile a shake, Chad will lose his footing and fall off the rock. You can pick up the piece of the ruins and turn it into the Archeologist on the horizontal river tile.
+							If you give the tile a shake, Chad will lose his footing and fall off the rock. You can pick up the relic and turn it into the Archeologist on the horizontal river tile.
 						</span>
 					</p>
 				</details>
@@ -202,12 +199,12 @@
 					<summary class="header-3">8 Puzzle</summary>
 
 					<p>
-						After turning in the ruins piece to the Archeologist, she reads them out loud and the map shuffles! It's time to put everything back in its right place and solve the eight puzzle.
+						After turning in the relic piece to the Archeologist, she reads them out loud and the map shuffles! It's time to put everything back in its right place and solve the eight puzzle.
 					</p>
 					<p>
 						Hint: 
 						<span class="spoiler">
-							When solving 8 puzzles, it's a bit tricky because you might have a lot of pieces correct but still be far from the solution. When I solve them, I like to get one row or column correct, then mess around with the final 5 pieces until it works.
+							When solving 8 puzzles, it's a bit tricky because you might have a lot of pieces correct but still be far from the solution. If you have a single row/column with 3 correct tiles, then you can solve the puzzle by only moving the remaining 5 tiles, without touching the 3 in the row/column
 						</span>
 					</p>
 					<p>
@@ -237,7 +234,7 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Caves</summary>
+			<summary class="header-1">Chloro Caves</summary>
 
 			<p>
 				Welcome to the Chloro Caves! What does Chloro mean? Chloro stands for chlorophyll. This zone introduces fungi, a new type of obstacle that you'll have to navigate. Fungi, of course, do not possess chlorophyll.
@@ -271,7 +268,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Use either of the lights to turn off the fungi on the tile you just got. Then, you can pick up the third Slider.
+						Move the tile you just got to the top right or bottom right corner of the grid. This will place it in the range of a light. The light will cause the fungi around the Slider to recede, alllwing you to pick up the third Slider.
 					</span>
 				</p>
 			</details>
@@ -383,9 +380,27 @@
 					The archeologist has already made a great discovery on tile 8, but she can't quite read the runes. Light up the entire map!
 				</p>
 				<p>
+					Hint 1: 
+					<span class="spoiler">
+						Try to avoid "double covering" tiles with multiple lights.
+					</span>
+				</p>
+				<p>
+					Hint 2: 
+					<span class="spoiler">
+						You'll want a light in the center of the map.
+					</span>
+				</p>
+				<p>
+					Hint 3: 
+					<span class="spoiler">
+						The other light should be in the top left or bottom left corner. Pay attention to where the walls are!
+					</span>
+				</p>
+				<p>
 					Solution: 
 					<span class="spoiler">
-						There are multiple configurations that may work, note that tiles change color when they are fully lit. If you want some direction to work towards, the "correct" tile configuration is also a valid solution (the missing tile will be in the bottom-left). If you've completed the final puzzle in Stonybrook Village, this will be a breeze. When the caves are lit, a short cutscene will play, and then you'll receive Slider 9.
+						There are multiple configurations that work. If you want some direction to work towards, the "correct" tile configuration is also a valid solution (the missing tile will be in the bottom-left). If you've completed the final puzzle in Stonybrook Village, this will be a breeze. When the caves are lit, a short cutscene will play, and then you'll receive Slider 9.
 					</span>
 				</p>
 			</details>
@@ -407,7 +422,7 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Ocean</summary>
+			<summary class="header-1">Shiting Seas</summary>
 
 			<p>
 				The Shifting Seas is Slider's water level. Like most water levels, there's a twist: instead of sliding tiles around, you rotate them. There's a lot to do and explore!
@@ -799,10 +814,10 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Desert</summary>
+			<summary class="header-1">The Impact Zone</summary>
 
 			<p>
-				The Impact Zone is the fifth level which contains an important relic to finish the Jungle. Instead of moving one tile at a time, all the tiles slide in one direction!
+				The Impact Zone is the fifth level, which contains an important relic to finish Canopy Town. Instead of moving one tile at a time, all the tiles slide in one direction!
 			</p>
 			<details>
 				<summary class="header-2">Slider 2</summary>
@@ -1044,7 +1059,7 @@
 				<summary class="header-2">Area Complete!</summary>
 
 				<p>
-					Now with the Scroll of Realigning, head back down to fix the Jungle, and then eastward towards the Factory!
+					Now with the Scroll of Realigning, head back down to fix the Canopy Town, and then eastward towards the Rocket Factory Center!
 				</p>
 				<p>
 					With the Scroll of Realigning, you also unlock two extra powers. You can now Save & Load grids by clicking the => (Save) button and the <= (Load) button. This can be helpful if you want to save a puzzle setup before doing some execution with moving parts.
@@ -1060,7 +1075,7 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Factory</summary>
+			<summary class="header-1">Rocket Factory Center</summary>
 
 			<p>
 				The Rocket Factory is probably Slider's hardest area. It formally introduces power, wires, conveyors, and timed gates. It is also super puzzle dense.
@@ -1266,6 +1281,12 @@
 					</span>
 				</p>
 				<p>
+					Hint 3: 
+					<span class="spoiler">
+						The Mega Crystal needs to be in the center of the map.
+					</span>
+				</p>
+				<p>
 					Solution Part 1: 
 					<span class="spoiler">
 						In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. 
@@ -1274,7 +1295,7 @@
 				<p>
 					Solution Part 2: 
 					<span class="spoiler">
-						First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop. Turn on the conveyor loop and watch as everything gets powered! You'll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.
+						First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop, and make sure the Mega Crystal is in the center of the map. Turn on the conveyor loop and watch as everything gets powered! You'll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.
 					</span>
 				</p>
 				<p>
@@ -1335,7 +1356,7 @@
 				<summary class="header-2">Area Complete!</summary>
 
 				<p>
-					Congratulations, you finished the hardest area! After the Factory, the Foreman will task you with helping the Military south as well as fixing the Mountain area. You can do them in either order!
+					Congratulations, you finished the hardest area! After fixing the Rocket Factory, the Foreman will task you with helping the Military in the Flats as well as retrieving gems from the Crystal Mines. You can do them in either order!
 				</p>
 			</details>
 			
@@ -1348,10 +1369,10 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Military</summary>
+			<summary class="header-1">The Flats</summary>
 
 			<p>
-				The Military region has you fighting, commanding your Robot army to defeat the apathetic Aliens. You get as many tries as you want to win this rock-paper-scissors area.
+				The Flats region has you fighting, commanding your Robot army to defeat the apathetic Aliens. You get as many tries as you want to win this rock-paper-scissors area.
 			</p>
 			<p>
 				This area features a lot of randomness, so there is no explicit solution. However, we can try to give some tips.
@@ -1380,19 +1401,16 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Mountain</summary>
+			<summary class="header-1">The Crystal Mines</summary>
 
-			<p>
-				!! This area of the guide is not finished !!
-			</p>
 			<p>
 				The Crystal Mines is the eighth area and one of the most challenging in the game. This area contains a 3D grid, ice, lava, crystals, and a massive network of minecart tracks to navigate. 
 			</p>
 			<details>
-				<summary class="header-2">Accessing the Mountain</summary>
+				<summary class="header-2">Accessing the Crystal Mines</summary>
 
 				<p>
-					Accessing the mountain is less straightforward than other areas. Per the directions of the Factory's Foreman, you can follow the rail line from the factory to the Chloro Caves. Unfortunately, that entrance is blocked, and you'll have to find another way in.
+					Accessing the Crystal Mines is less straightforward than other areas. Per the directions of the Factory's Foreman, you can follow the rail line from the factory to the Chloro Caves. Unfortunately, that entrance is blocked, and you'll have to find another way in.
 				</p>
 				<p>
 					Hint: 
@@ -1432,28 +1450,40 @@
 				<summary class="header-2">Slider 3</summary>
 
 				<p>
-					A basement resides on Slider 2, but the door is locked and blocked by a frozen crate. You'll need to find a way to break the crate and obtain the key.
+					A basement resides on slider 2, but the door is locked and blocked by a frozen crate. You'll need to find a way to break the crate and obtain the key.
 				</p>
 				<p>
-					Hint 1: 
+					Crate Hint: 
 					<span class="spoiler">
-						What large, heavy, metal object do you have that's perfect for smashing stuff? Now that you're in 3D, take head of gravity.
+						What large, heavy, metal object do you have that's perfect for smashing stuff?
 					</span>
 				</p>
 				<p>
-					Hint 2: 
+					Key Hint 1: 
 					<span class="spoiler">
-						Bobbyjim has the key, but he needs some lava in the bucket to warm up. Can you 
+						Bobbyjim needs a bucket of lava. The craftsman on the lower layer can provide
 					</span>
 				</p>
 				<p>
-					Solution Part 1: 
+					Key Hint 2: 
+					<span class="spoiler">
+						The lava pool on the newly obtained slider can be used to fill the bucket. But how?
+					</span>
+				</p>
+				<p>
+					Crate Solution: 
 					<span class="spoiler">
 						Use the anchor to smash the crate in front of the door.
 					</span>
 				</p>
 				<p>
-					Solution Part 2: ||Set up the Slider with the lava bucket on the bottom row of the bottom layer. Place the Slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the anchor or pick it up and bring it near a lava source to melt it. 
+					Key Solution Part 1: 
+					<span class="spoiler">
+						Visit Burt the Craftsman on the bottom left of the bottom layer. He will generously give you a bucket for free. Bring it back to Jimbobby.
+					</span>
+				</p>
+				<p>
+					Solution Part 2: ||Set up the soldier with the lava bucket on the bottom row of the bottom layer. Place the slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the Anchor or pick it up and bring it near a lava source to melt it. 
 				</p>
 			</details>
 			
@@ -1461,7 +1491,7 @@
 				<summary class="header-2">Slider 4</summary>
 
 				<p>
-					This massive water wheel generates power for a variety of contraptions. Unfortunately, the gears have frozen over.
+					This massive water wheel generates power for a variety of contraptions. Unfortunately, the gears have frozen over!
 				</p>
 				<p>
 					Hint 1: 
@@ -1476,15 +1506,15 @@
 					</span>
 				</p>
 				<p>
-					Solution Part 1: 
+					Hint 3: 
 					<span class="spoiler">
-						On the top layer, put the water wheel Slider in the bottom left and the basement Slider above it. The lava will melt the top gear. Place the remaining Slider under the waterwheel, then use the anchor to break the ice on the bottom gear.
+						If you anchor a tile on the top layer, it won't fall if there is another tile underneath.
 					</span>
 				</p>
 				<p>
-					Solution Part 2: 
+					Solution: 
 					<span class="spoiler">
-						Bert the craftsman in the bottom left corner of the lower level will give you a toolbox free of charge. Bring it back to the waterwheel worker to fix the gears. Once the waterwheel is in position and both gears are unfrozen, it will generate power.
+						On the top layer, put the water wheel tile in the bottom left and the basement slider above it. The lava will melt the top gear. Place the remaining slider under the waterwheel on the bottom layer, then use the anchor to break the ice on the bottom gear.
 					</span>
 				</p>
 			</details>
@@ -1493,7 +1523,7 @@
 				<summary class="header-2">Slider 5</summary>
 
 				<p>
-					The next Slider contains a crystal processing machine and a giant ice patch with a minecart rail across it. 
+					The next slider contains a crystal processing machine and a giant ice patch with a minecart rail across it. 
 				</p>
 				<details>
 					<summary class="header-3">Obtaining the Minecart</summary>
@@ -1519,7 +1549,13 @@
 					<summary class="header-3">Minecart Drop</summary>
 
 					<p>
-						NOT DONE
+						The giant ice patch on this slider can act as a shortcut for the minecart! Follow the instructions of Muncher to see how it works.
+					</p>
+					<p>
+						Solution: 
+						<span class="spoiler">
+							Place the ice patch tile directly above the tile with the trees. Drop the minecart onto the rails on the ice patch. Use the Anchor to break the ice and watch the minecart drop below.
+						</span>
 					</p>
 				</details>
 				
@@ -1527,33 +1563,40 @@
 					<summary class="header-3">Crystals</summary>
 
 					<p>
-						Sara, a researcher from the MRI, is investigating the crystal extractor. To help with her research, use the minecart to fill the extractor with crystals. Watch out; if you move a tile while the minecart is full of crystals, they will be destroyed!
+						Sara, a researcher from the MRI, is investigating the crystal extractor. To help with her research, you'll need to power the extractor and use the minecart to fill it with crystals. You can start the minecart by placing it on the yellow powered rails. Watch out; if you move a tile while the minecart is full of crystals, they will be destroyed!
 					</p>
 					<p>
-						Hint: 
+						Power Hint 1: 
 						<span class="spoiler">
-							You can form a single, continuous track from the powered rails to the crystal depositor to the crystal extractor. Make sure to pay attention to which direction the junctions are pointing.
+							You can try using the waterwheel, but you won't find a valid setup. Is there another power source available?
 						</span>
 					</p>
 					<p>
-						Solution: ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal.
-					</p>
-				</details>
-				
-				<details>
-					<summary class="header-3">Powering the Extractor NOT DONE</summary>
-
-					<p>
-						Hint: 
+						Power Hint 1: 
 						<span class="spoiler">
-							The generator is providing power to the elevator
+							There's a generator powering the elevator
 						</span>
 					</p>
 					<p>
 						Solution: 
 						<span class="spoiler">
-							Use the anchor to connect the elevator generator to the water wheel power line, which will connect to the extractor.
+							Use the Anchor to connect the elevator generator to the exposed wire of the water wheel power line, which will connect to the extractor.
 						</span>
+					</p>
+					<p>
+						Crystal Hint: 
+						<span class="spoiler">
+							You can form a single, continuous track from the powered rails to the crystal depositor to the crystal extractor. Make sure to pay attention to which direction the junctions are pointing.
+						</span>
+					</p>
+					<p>
+						Crystal Solution: ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal. The tile setup looks like this:
+					</p>
+					<p>
+						(insert image)
+					</p>
+					<p>
+						||
 					</p>
 				</details>
 				
@@ -1566,13 +1609,37 @@
 					It's time to run the experiment. Unfortunately, the power overwhelms the generator, causing both it and the crystal extractor to be damaged. Looks like we have to fix them. You'll need a crystal to fix the generator.
 				</p>
 				<p>
-					Hint: 
+					Hint 1: 
 					<span class="spoiler">
-						The minecart will always exit the crystal loop on the opposite side from where it entered.
+						The minecart will always exit the Crystal Loop on the opposite side from where it entered.
 					</span>
 				</p>
 				<p>
-					Hint: ||You can move tiles while the minecart is in the crystal loop
+					Hint 2: 
+					<span class="spoiler">
+						You can use the Crystal Loop lever opposite from the entrance used by the minecart to trap the minecart the loop.
+					</span>
+				</p>
+				<p>
+					Hint 3: 
+					<span class="spoiler">
+						You can move tiles while the minecart is in the Crystal Loop.
+					</span>
+				</p>
+				<p>
+					Solution: ||Set up the 4 tiles on the bottom as you did previously. Make sure the left lever on the basement tile is off, the bottom right lever on the forest tile is off, and the middle left lever on the forest tile is on.
+				</p>
+				<p>
+					(insert image)
+				</p>
+				<p>
+					This time, send the minecart around to the left. Make sure the bottom switch on the forest tile is off. Once the minecart is in the loop, move the tiles to form this configuration:
+				</p>
+				<p>
+					(insert image)
+				</p>
+				<p>
+					Then, flip the bottom switch to release the minecart from the loop. Make sure the top lever on the forest tile is on. The minecart will deliver a crystal to the generator, fixing it and powering the elevator again.||
 				</p>
 			</details>
 			
@@ -1580,25 +1647,65 @@
 				<summary class="header-2">Slider 7</summary>
 
 				<p>
-					Not done
+					We finally meet the lead engineer of the Crystal Mines, and she has the pipe to repair the water wheel heater! She seems rather distressed about her elevator, though. In order to get to the pipe, we will have to help her out.
 				</p>
 				<details>
 					<summary class="header-3">Repairing the Heater</summary>
 
-				</details>
-				
-				<details>
-					<summary class="header-3">Repairing the Gem Extractor</summary>
-
+					<p>
+						Not being impressed with the ice patch, the engineer wants to see the elevator go down, not just up! You'll need to find a way to send the minecart down the elevator.
+					</p>
+					<p>
+						Hint 1: 
+						<span class="spoiler">
+							If you move the tile the minecart is on it'll stop. However, you can move other tiles.
+						</span>
+					</p>
+					<p>
+						Hint 2: 
+						<span class="spoiler">
+							The tile the minecart exits the elevator from is not the tile it uses to go back in.
+						</span>
+					</p>
+					<p>
+						Solution: ||First, turn on the left lever and turn off the right lever on the basement tile. Setup the tiles like this:
+					</p>
+					<p>
+						(insert image here)
+					</p>
+					<p>
+						As the minecart makes its way to the top layer, slide tiles to create this configuration. You'll have to flip the left lever on the basement tile to the off position. Make sure not to move the tile the minecart is on!
+					</p>
+					<p>
+						(insert image here)
+					</p>
+					<p>
+						Once the minecart goes down the elevator, talk to the engineer and she will move out of the way. Grab the pipe and use it to fix the heater.||
+					</p>
 				</details>
 				
 				<details>
 					<summary class="header-3">Filling the Heater</summary>
 
 					<p>
+						Now it's time to fill that heater with 2 buckets of lava! You'll need to somehow get the lava into your minecart though, and you need to keep the minecart moving.
+					</p>
+					<p>
 						Hint 1: 
 						<span class="spoiler">
 							Take a close look at the lava buckets you've seen previously. Does that shape look familiar?
+						</span>
+					</p>
+					<p>
+						Hint 2: 
+						<span class="spoiler">
+							You have to use the ice patch shortcut or send the minecart down the elevator
+						</span>
+					</p>
+					<p>
+						Hint 3: 
+						<span class="spoiler">
+							You can't make a full loop yet: one of the tiles will have to move a little.
 						</span>
 					</p>
 					<p>
@@ -1607,6 +1714,53 @@
 							You can pass the minecart under a lavafall to fill it with lava.
 						</span>
 					</p>
+					<p>
+						Solution Part 2: ||Make sure the left lever of the basement tile is on, the right lever on the basement tile is off, and the bottom right lever of the forest tile isSetup the tiles as shown here
+					</p>
+					<p>
+						(insert image)
+					</p>
+					<p>
+						The minecart will fill with lava when passing under the lavafall. After dropping the minecart at the station, run to the giant ice patch. Once the minecart enters the elevator, slide the forest tile down, under the ice patch.
+					</p>
+					<p>
+						(insert image)
+					</p>
+					<p>
+						When the minecart is near or on the ice, drop the anchor to break the ice. Once the minecart exits the forest tile, slide it back up to the elevator. The minecart will fill with lava once more. Once it reaches the heater, it will begin to fill with lava. When the heater is full, it will activate, unfreezing the waterwheel.
+					</p>
+				</details>
+				
+				<details>
+					<summary class="header-3">Repairing the Gem Extractor</summary>
+
+					<p>
+						With the waterwheel running, now we just need to get a new extractor tank. Burt offers to make us one, but at a price: crystals!
+					</p>
+					<p>
+						Hint 2: 
+						<span class="spoiler">
+							If you move *any* tile, the crystals in the minecart will be destroyed.
+						</span>
+					</p>
+					<p>
+						Hint 2: ||You'll have to use the ice patch again|.|
+					</p>
+					<p>
+						Hint 3: 
+						<span class="spoiler">
+							The tile with the crane on it is the only way for the minecart to reach Burt with a crystal.
+						</span>
+					</p>
+					<p>
+						Solution: ||Set up the tiles as shown below. 
+					</p>
+					<p>
+						(insert image)
+					</p>
+					<p>
+						Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you Slider 7.
+					</p>
 				</details>
 				
 			</details>
@@ -1614,13 +1768,40 @@
 			<details>
 				<summary class="header-2">Slider 8</summary>
 
+				<p>
+					Time to make some crystal goo! You'll need 2 crystals, you can't move the extractor, and once again the minecart must be continuously moving. Because science!
+				</p>
+				<p>
+					Hint 1: 
+					<span class="spoiler">
+						You can't move any tiles during the loop. Plan your setup carefully! It will be similar to the setup for the lava loop
+					</span>
+				</p>
+				<p>
+					Hint 2: 
+					<span class="spoiler">
+						The slider with the trees and pile of logs have very similar rail setups
+					</span>
+				</p>
+				<p>
+					Solution:||There are 2 solutions. Only 1 of them will be possible for you, depending on your previous tile configuration.
+				</p>
+				<p>
+					(insert image here)
+				</p>
+				<p>
+					(insert image here)
+				</p>
+				<p>
+					Don't forget to check the lever states!||
+				</p>
 			</details>
 			
 			<details>
 				<summary class="header-2">Area Complete!</summary>
 
 				<p>
-					Time for some hot cocoa at the mountaintop station. After fixing the area, the engineer will give you a crystal sample to take back to the foreman. Once you defeat the aliens in The Flats, you can then access the MRI, the final area in the game!
+					Time for some hot cocoa at the mountaintop station. After fixing the area, the engineer will give you a crystal sample to take back to the foreman in the Rocket Factory. Once you defeat the aliens in The Flats, you can then access the MRI, the final area in the game!
 				</p>
 			</details>
 			
@@ -1633,7 +1814,7 @@
 	<div class="col-md-8 col-md-offset-2">
 		
 		<details>
-			<summary class="header-1">Magitech</summary>
+			<summary class="header-1">Magic Research Institute (MRI)</summary>
 
 			<p>
 				Welcome to Magic Research Institute, the final level of Slider! This area features present and past versions of tiles, with a desync mechanic centered around the anchor. Start by walking over to the bottom right corner of the map and talk to Alchemist Muta.
@@ -1645,7 +1826,7 @@
 					In addition to filling (both) grids, you also have to find 9 gems to power the Gem Fuel machine. You'll probably find most of them as you play, but here are all of the gems in case you missed some.
 				</p>
 				<details>
-					<summary class="header-3">Ocean Gem</summary>
+					<summary class="header-3">Ocean Gem (Blue)</summary>
 
 					<p>
 						Fezziwig has the first gem on the bottom right corner of the map. Go and talk to him.
@@ -1653,30 +1834,30 @@
 					<p>
 						Solution: 
 						<span class="spoiler">
-							Pick up and deliver gems to the Gem Fuel machine by pressing 'e' (or your key bind for interact).
+							Pick up and deliver gems to the Gem Fuel machine by pressing 'E' (or your key bind for interact).
 						</span>
 					</p>
 				</details>
 				
 				<details>
-					<summary class="header-3">Desert Gem</summary>
+					<summary class="header-3">Desert Gem (Orange)</summary>
 
 					<p>
-						After activating the Desert portal, go back into the Desert Temple and explore more of the temple.
+						After activating the portal to the Impact Zone, go back into the Desert temple and explore some more.
 					</p>
 					<p>
 						Solution: 
 						<span class="spoiler">
-							The Desert gem is in the Desert temple, on the right side of the underground portion.
+							The Desert Gem is in the Desert temple, on the newly excavated right side of the underground portion.
 						</span>
 					</p>
 				</details>
 				
 				<details>
-					<summary class="header-3">Military Gem</summary>
+					<summary class="header-3">Military Gem (Purple)</summary>
 
 					<p>
-						Wouldn't be a Magic Research Institute without lasers! Looks like there are some big rocks you can blow up around here, and the Military Gem is in the bottom left corner blocked by one. See if the laser cannon on the second tile can help clear the way.
+						It wouldn't be a Magic Research Institute without lasers! Looks like there are some big rocks you can blow up around here, and the Military Gem is in the bottom left corner blocked by one. The laser cannon on the second tile can help clear the way.
 					</p>
 					<p>
 						Hint: 
@@ -1687,27 +1868,27 @@
 					<p>
 						Solution: 
 						<span class="spoiler">
-							The Military Gem is on the left side of the past behind a giant rock. Arm the rock with explosives by interacting with the bomb sign near it. You can shoot the laser through the portal and blow up the rock and collect the gem.
+							The Military Gem is on the left side of the past behind a giant rock. Arm the rock with explosives by interacting with the bomb sign near it. You can shoot the laser through the portal, blow up the rock, and collect the gem.
 						</span>
 					</p>
 				</details>
 				
 				<details>
-					<summary class="header-3">Village Gem</summary>
+					<summary class="header-3">Village Gem (Brown)</summary>
 
 					<p>
-						The Village Gem is on the top right of the laser tile. But it's locked behind an electric door that's activated by a pressure plate on the inside?
+						The Village Gem is on the top right of the laser tile. But it's locked behind an electric door activated by a button on the... inside?
 					</p>
 					<p>
 						Hint: 
 						<span class="spoiler">
-							Changing the position of an item in the past affects the position of the item in the present. See if you can use the bob on the portal tile.
+							Changing the position of an the past version of an entangled item affects the position of the the present version.
 						</span>
 					</p>
 					<p>
 						Solution: 
 						<span class="spoiler">
-							Without the anchor on any tile, pick up the purple bob on the past portal tile, and bring it to the top right of the past laser tile, and place it within the box. Return to the present laser tile to pick up the gem.
+							Pick up the past (pink) bob on the past portal tile, and bring it to the top right of the past laser tile. Place it within the box. The present (yellow) version of the bob will be teleported to the same spot in the present and should activate the button on the present laser tile. Return to the present laser tile to pick up the gem. (Make sure nothing is desynced!)
 						</span>
 					</p>
 				</details>
@@ -1721,10 +1902,10 @@
 				</details>
 				
 				<details>
-					<summary class="header-3">Caves Gem</summary>
+					<summary class="header-3">Caves Gem (Teal)</summary>
 
 					<p>
-						The Caves Gem is located on the bottom right side of the map in the past. Use the purple and yellow bobs to get inside.
+						The Caves Gem is located on the bottom right side of the map in the past. Use the entangled bobs to get inside.
 					</p>
 					<p>
 						Hint: 
@@ -1735,13 +1916,13 @@
 					<p>
 						Solution: 
 						<span class="spoiler">
-							Bring the purple bob down and place it in front of the first closed door. Go to the present near the gem machine to pick up the yellow bob and place it to connect the wires. Walk through the first door and pick up the purple bob. This will reset the present bob's position. Collect the gem, flip the switch and walk out.
+							Use the Anchor to connect the pylons and open the first door. Bring the past bob down and place it behind the first door. Go to the present near the gem machine to pick up the present bob and place it to connect the wires. Pick up the Anchor. Walk through the first door and pick up the past bob. This will reset the present bob's position. Collect the gem, flip the switch, and walk out.
 						</span>
 					</p>
 				</details>
 				
 				<details>
-					<summary class="header-3">Jungle Gem</summary>
+					<summary class="header-3">Jungle Gem (Green)</summary>
 
 					<p>
 						A wizard in the village in the past has the gem, but he's asking for one million dollars!
@@ -1755,21 +1936,21 @@
 					<p>
 						Solution: 
 						<span class="spoiler">
-							Shoot the laser through the present portal into the top left of the map to the portal leading to the Desert. Go through the portal, set the bombs outside the right side of the casino, take the money, and run away! You can pay the wizard in the past village and Grab the Jungle Gem and the Gem Fuel recipe.
+							Shoot the laser through the present portal into the top left of the map to the portal leading to the Desert. You'll have to blow up the rock first. Go through the portal, set the bombs outside the right side of the casino, take the money, and run away! You can pay the wizard in the past village and grab the Jungle Gem and the Gem Fuel recipe.
 						</span>
 					</p>
 				</details>
 				
 				<details>
-					<summary class="header-3">MagiTech Gem</summary>
+					<summary class="header-3">MagiTech Gem (Pink)</summary>
 
 					<p>
-						Go to the final tile and talk to the voice on the reflection pool.
+						Go to the 9th tile and talk to the voice on the reflection pool.
 					</p>
 					<p>
 						Solution: 
 						<span class="spoiler">
-							Use the Scroll of Realigning to put all the MagiTech tiles in their proper place. Turn in the artifact by advancing the dialogue at the reflection pool.
+							Use the Scroll of Realigning to put all the MRI back together. Turn in the artifact by advancing the dialogue at the reflection pool.
 						</span>
 					</p>
 				</details>
@@ -1785,7 +1966,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Go right past the Gem Fuel machine, pick up the Ocean Gem, and use it near the machine to place it in. Talk to Muta and pick up the Gem Transporter, then pick up the Ocean Gem again.
+						Go past the Gem Fuel machine, pick up the Ocean Gem, and use it near the machine to place it in. Talk to Muta and pick up the Gem Transporter, then pick up the Ocean Gem again.
 					</span>
 				</p>
 			</details>
@@ -1794,7 +1975,7 @@
 				<summary class="header-2">Slider 2</summary>
 
 				<p>
-					Seems like no matter where you go, Chad beats you to the frontiers of new places to explore. Hop into the portal and see if you can find him.
+					A portal appears; where might it lead? Explore the past to find the next Slider.
 				</p>
 				<p>
 					Solution: 
@@ -1808,18 +1989,18 @@
 				<summary class="header-2">Slider 3</summary>
 
 				<p>
-					The scientist on the laser tile seems like he needs help getting testing out the laser. Try blowing up the big rock in the past version of the laser tile.
+					By studying fossils from the Impact Zone, MRI scientists have created a super laser! In order to test it out, you'll need to explode a rock and retrieve some oil.
 				</p>
 				<p>
 					Hint: 
 					<span class="spoiler">
-						Dropping the anchor on a tile in the present causes a desync -- it locks the tile in place, but enables you to move it elsewhere in the past.
+						Dropping the Anchor on a tile causes a desync -- it locks the tile in place, but enables you to move the tile in the other dimension.
 					</span>
 				</p>
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Move the laser to the right side of the grid with the portal in the center. Drop the anchor on the laser tile, take the portal into the past, and move the past laser tile around to the left of the portal. Talk to the bomb sign to blow up the rock, pick up the Oil, and bring it back to the scientist on the laser tile.
+						Move the laser to the right side of the grid with the portal in the center. Drop the Anchor on the laser tile, take the portal into the past, and move the past laser tile around to the left of the portal. Talk to the bomb sign to blow up the rock. Pick up the Oil, and bring it back to the scientist on the laser tile.
 					</span>
 				</p>
 			</details>
@@ -1828,7 +2009,7 @@
 				<summary class="header-2">Slider 4</summary>
 
 				<p>
-					Head into the Museum, and you'll find the Curator, who tells you that two wizards had a duel and both died, and that the shield generator on display is a relic from that duel. See if you can settle the dispute on the past museum tile.
+					Head into the museum, and you'll find the Curator. He tells you a tale of two wizards who died in combat over a shield generator, which is now preserved in the museum. If things had ended differently, perhaps there would be some other remnant from the battle. Can you change history?
 				</p>
 				<p>
 					Hint: 
@@ -1839,7 +2020,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						On the past museum tile, move the purple shield generator to either one of the wizard's boxes. Go to the present museum tile and grab the yellow shield generator from the upper floor of the museum, and bring it to the other wizard. Run back to the museum and talk to the curator and pick up the Mountory Gem while you're at it (Poor curator. His worries came true).
+						On the past museum tile, move the pink shield generator to either one of the wizard's boxes. That wizard will win the duel, creating a gem which is preserved in the museum. Go to the present museum tile, grab the present shield generator from the upper floor of the museum, and bring it to the other wizard. On Run back to the museum and talk to the curator and pick up the Mountory Gem while you're at it (Poor curator. His worries came true).
 					</span>
 				</p>
 			</details>
@@ -1848,18 +2029,24 @@
 				<summary class="header-2">Slider 5</summary>
 
 				<p>
-					On the new tile, there's a VERY hungry worker, who isn't satisfied with just one burger. See if you can get him a burger from the past as well?
+					On the new tile, there's a VERY hungry worker, who isn't satisfied with just one burger. It's become entangled with the very first burger ever created, which you'll need to steal.
 				</p>
 				<p>
-					Hint: 
+					Hint 1: 
 					<span class="spoiler">
-						There's a way to "cut" the flow of time between the past and present of a tile.
+						While you can bring present entangled items to the past, you can't bring past items to the present without the present version disappearing. That is, unless you could break the rules of time...
+					</span>
+				</p>
+				<p>
+					Hint 2: 
+					<span class="spoiler">
+						If either entangled item is on a desync tile, no pesky time continuity rules apply
 					</span>
 				</p>
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Anchor the Hungry Worker's tile down, swap to the past and activate a desync by moving the past tile to a different location. The past burger should now have a lightning effect. Take the past burger and place it on the table next to the hungry worker. Then take the "contraband" he found.
+						Anchor the Hungry Worker's tile down, swap to the past and activate a desync by moving the past tile to a different location. The past burger should now have a lightning effect. Take the past burger and place it on the table next to the hungry worker. When both burgers are near the worker, he will give you Slider 6
 					</span>
 				</p>
 			</details>
@@ -1868,7 +2055,7 @@
 				<summary class="header-2">Slider 6</summary>
 
 				<p>
-					The castle in the past version of the new tile holds the next slider piece. But the only bridge to get there is broken, and a shroom-hatted wizard is somehow afraid of mushrooms?
+					The castle on the past version of the new tile holds the next Slider piece. The only bridge to get there is broken, and a shroom-hatted wizard is somehow afraid of mushrooms?
 				</p>
 				<p>
 					Hint: 
@@ -1879,7 +2066,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Line up the castle and the bridge in one row, and the portal and the laser in another row. Anchor the present portal and bring it to the same row as the castle. Talk to the shroom-hatted wizard and cross the bridge into the castle.
+						Line up the castle and the bridge in one row, and the portal and the laser in another row. Anchor the present portal slider, and move the past portal tile to start a desync.  Move the past portal slider to the same row as the castle. Talk to the shroom-hatted wizard and cross the bridge into the castle.
 					</span>
 				</p>
 			</details>
@@ -1909,9 +2096,21 @@
 					</span>
 				</p>
 				<p>
-					Solution: 
+					Oil #2 (Present Rocket Tile) Solution: 
 					<span class="spoiler">
-						You should already have one oil. Pick up the second oil on the top right of the rocket tile. Line up the rocket, portal, and laser tiles from left to right, then blow up the rock in the past rocket tile. For the present rock, first line up the rocket, hungry worker tile, and laser on the bottom row, and anchor the present laser tile. The laser should reflect upwards in the middle. Place the portal in the middle of the left side with the museum above it, then place the present explodable rock in the top right corner. Move to the past. There should be a path to desync the past laser tile and move it to the center of the top row. Move the portal one tile right to the center and the rocket up one tile. The laser should start on the bottom right, reflect up into the portal in the middle, loop counter-clockwise in the past, and come out the right side of the present portal. Go explode the present rock and return to the rocket engineer near the launchpad.
+						 Oil #2 is in a pile of supplies on the top right of the rocket tile.
+					</span>
+				</p>
+				<p>
+					Oil #3 (Past Rocket Tile) Solution: 
+					<span class="spoiler">
+						 Line up the rocket, portal, and laser tiles from left to right, then blow up the rock in the past rocket tile.
+					</span>
+				</p>
+				<p>
+					Oil #4 (Present Mirror Tile) Solution: 
+					<span class="spoiler">
+						 first line up the rocket, hungry worker tile, and laser on the bottom row, and anchor the present laser tile. The laser should reflect upwards in the middle. Place the portal in the middle of the left side with the museum above it, then place the present explodable rock in the top right corner. Move to the past. There should be a path to desync the past laser tile and move it to the center of the top row. Move the portal one tile right to the center and the rocket up one tile. The laser should start on the bottom right, reflect up into the portal in the middle, loop counter-clockwise in the past, and come out the right side of the present portal. Go explode the present rock and return to the rocket engineer near the launchpad.
 					</span>
 				</p>
 			</details>
@@ -1920,18 +2119,18 @@
 				<summary class="header-2">Slider 8</summary>
 
 				<p>
-					Slider 8 can be found trapped behind a similar puzzle to the Caves Gem on the tile with two buildings on it. Use the desync lever interactions to get inside.
+					Slider 8 can be found trapped behind a similar puzzle to the Caves Gem on the tile with two buildings on it. Use the entangled lever interactions to get inside.
 				</p>
 				<p>
 					Hint: 
 					<span class="spoiler">
-						You can move tiles while previewing the past (with "Shift" by default) to desync/resync. Alternatively you can put down/lift the anchor near the doors.
+						Don't forget about the Anchor!
 					</span>
 				</p>
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Flip the switch in the past so that the outer door is open. Place the anchor on the present "safe" tile. Go back to the past, desync the tile by moving it, flip the switch so that the inner door is open, then go back to the present. Walk through the outer door, then resync by holding the keyboard bind for preview down and shifting the tile back, or pick up the anchor while still inside the outer door. This should shut the outer door and open the inner one. Flip the switch to get out.
+						Flip the lever in the past so that the outer door is open. Place the Anchor on the present vault tile. Go back to the past, desync the tile by moving it, flip the switch so that the inner door is open, then go back to the present. Walk through the outer door, then resync by holding the keyboard bind for preview down and shifting the past tile back, or pick up the Anchor while still inside the outer door. This will shut the outer door and open the inner one. Flip the switch to get out.
 					</span>
 				</p>
 			</details>
@@ -1940,7 +2139,7 @@
 				<summary class="header-2">Slider 9</summary>
 
 				<p>
-					Collect all the gems except the MagiTech Gem, then talk to Alchemist Muta to get the final Slider!
+					Collect all the gems except the MagiTech Gem, then talk to Alchemist Muta to get the final Slider! You're probably missing the Jungle one, but make sure to check the Gem section above.
 				</p>
 			</details>
 			
@@ -1948,10 +2147,37 @@
 				<summary class="header-2">Blast Off!</summary>
 
 				<p>
-					What a journey! Once you've collected all the gems, talk to Alchemist Muta to get the fuel pumping to the rocket. Interact with the door near the launchpad, and you'll be on your way to being reunited with your cat! 
+					What a journey! Once you've collected all the Gems, talk to Alchemist Muta to get the Gem Fuel pumping to the rocket. Interact with the door near the launchpad, and you'll be on your way to being reunited with your cat! 
 				</p>
 				<p>
-					Once again, thanks for playing Slider!				</p>
+					Thanks for playing Slider!
+				</p>
+			</details>
+			
+		</details>
+		
+	</div>
+</div>
+
+<div class="row animate-box">
+	<div class="col-md-8 col-md-offset-2">
+		
+		<details>
+			<summary class="header-1">Bonus Content</summary>
+
+			<details>
+				<summary class="header-2">Breadge</summary>
+
+				<p>
+					Each area has a hidden Breadge to collect. They are all accessible even after beating the area. If you collect all 9, you can bring them to the bakery in the MRI for an awesome surprise. These are all possible to acquire even if you've collected all the tiles in an area. Good luck!
+				</p>
+			</details>
+			
+			<details>
+				<summary class="header-2">Challenge Achievements</summary>
+
+				<p>
+					If you're still hungry for more challenges, each area has a bonus achievement. Most of these achievements require you to finish an area in a specific way, so you'll probably have to do it from a fresh save. There is also a one-hour speedrunning achievement that we have enjoyed a lot. But you'll have to figure those out for yourself :)				</p>
 			</details>
 			
 		</details>
