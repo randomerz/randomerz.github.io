@@ -268,7 +268,7 @@
 				<p>
 					Solution: 
 					<span class="spoiler">
-						Move the tile you just got to the top right or bottom right corner of the grid. This will place it in the range of a light. The light will cause the fungi around the Slider to recede, alllwing you to pick up the third Slider.
+						Move the tile you just got to the top right or bottom right corner of the grid. This will place it in the range of a light. The light will cause the fungi around the Slider to recede, allowing you to pick up the third Slider.
 					</span>
 				</p>
 			</details>
@@ -311,7 +311,7 @@
 				<summary class="header-2">Slider 6</summary>
 
 				<p>
-					Here you'll find another light, though the cable has been chewed up by rats. The archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
+					Here you'll find another light, though the cable has been chewed up by rats. The Archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
 				</p>
 				<p>
 					Hint: 
@@ -662,13 +662,13 @@
 				<p>
 					Fish Solution: 
 					<span class="spoiler">
-						(Images are not currently supported :( sorry)
+						<img src="Images/JungleFish.jpg" class="img-responsive" alt="Fish Solution">
 					</span>
 				</p>
 				<p>
 					Boat Solution: 
 					<span class="spoiler">
-						(Images are not currently supported :( sorry)
+						<img src="Images/JungleShip.jpg" class="img-responsive" alt="Ship Solution">
 					</span>
 				</p>
 			</details>
@@ -688,7 +688,7 @@
 					<p>
 						Flag Solution: 
 						<span class="spoiler">
-							(Images are not currently supported :( sorry)
+							<img src="Images/JungleFlag.jpg" class="img-responsive" alt="Flag Solution">
 						</span>
 					</p>
 				</details>
@@ -748,19 +748,19 @@
 				<p>
 					Crutches Solution: 
 					<span class="spoiler">
-						(Images are not currently supported :( sorry)
+						<img src="Images/JungleCrutch.jpg" class="img-responsive" alt="Crutches Solution">
 					</span>
 				</p>
 				<p>
 					Bandage Solution: 
 					<span class="spoiler">
-						(Images are not currently supported :( sorry)
+						<img src="Images/JungleBandage.jpg" class="img-responsive" alt="Bandage Solution">
 					</span>
 				</p>
 				<p>
 					Fish Bowl Solution: 
 					<span class="spoiler">
-						(Images are not currently supported :( sorry)
+						<img src="Images/JungleFishBowl.jpg" class="img-responsive" alt="Fish Bowl Solution">
 					</span>
 				</p>
 			</details>
@@ -786,13 +786,13 @@
 				<p>
 					Minecart Solution: 
 					<span class="spoiler">
-						(Images are not currently supported :( sorry)
+						<img src="Images/JungleMinecart.jpg" class="img-responsive" alt="Minecart Solution">
 					</span>
 				</p>
 				<p>
 					Rails Solution: 
 					<span class="spoiler">
-						(Images are not currently supported :( sorry)
+						<img src="Images/JungleRails.jpg" class="img-responsive" alt="Rails Solution">
 					</span>
 				</p>
 			</details>
@@ -1627,19 +1627,34 @@
 					</span>
 				</p>
 				<p>
-					Solution: ||Set up the 4 tiles on the bottom as you did previously. Make sure the left lever on the basement tile is off, the bottom right lever on the forest tile is off, and the middle left lever on the forest tile is on.
+					Solution: 
+					<span class="spoiler">
+						Set up the 4 tiles on the bottom as you did previously. Make sure the left lever on the basement tile is off, the bottom right lever on the forest tile is off, and the middle left lever on the forest tile is on.
+					</span>
 				</p>
 				<p>
-					(insert image)
+					
+					<span class="spoiler">
+						<img src="Images/MountainT6_1Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 1">
+					</span>
 				</p>
 				<p>
-					This time, send the minecart around to the left. Make sure the bottom switch on the forest tile is off. Once the minecart is in the loop, move the tiles to form this configuration:
+					
+					<span class="spoiler">
+						This time, send the minecart around to the left. Make sure the bottom switch on the forest tile is off. Once the minecart is in the loop, move the tiles to form this configuration:
+					</span>
 				</p>
 				<p>
-					(insert image)
+					
+					<span class="spoiler">
+						<img src="Images/MountainT6_2Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 2">
+					</span>
 				</p>
 				<p>
-					Then, flip the bottom switch to release the minecart from the loop. Make sure the top lever on the forest tile is on. The minecart will deliver a crystal to the generator, fixing it and powering the elevator again.||
+					
+					<span class="spoiler">
+						Then, flip the bottom switch to release the minecart from the loop. Make sure the top lever on the forest tile is on. The minecart will deliver a crystal to the generator, fixing it and powering the elevator again.
+					</span>
 				</p>
 			</details>
 			
@@ -1668,19 +1683,34 @@
 						</span>
 					</p>
 					<p>
-						Solution: ||First, turn on the left lever and turn off the right lever on the basement tile. Setup the tiles like this:
+						Solution: 
+						<span class="spoiler">
+							First, turn on the left lever and turn off the right lever on the basement tile. Setup the tiles like this:
+						</span>
 					</p>
 					<p>
-						(insert image here)
+						
+						<span class="spoiler">
+							<img src="Images/MountainT7GoDown1Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 1">
+						</span>
 					</p>
 					<p>
-						As the minecart makes its way to the top layer, slide tiles to create this configuration. You'll have to flip the left lever on the basement tile to the off position. Make sure not to move the tile the minecart is on!
+						
+						<span class="spoiler">
+							As the minecart makes its way to the top layer, slide tiles to create this configuration. You'll have to flip the left lever on the basement tile to the off position. Make sure not to move the tile the minecart is on!
+						</span>
 					</p>
 					<p>
-						(insert image here)
+						
+						<span class="spoiler">
+							<img src="Images/MountainT7GoDown2Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 2">
+						</span>
 					</p>
 					<p>
-						Once the minecart goes down the elevator, talk to the engineer and she will move out of the way. Grab the pipe and use it to fix the heater.||
+						
+						<span class="spoiler">
+							Once the minecart goes down the elevator, talk to the engineer and she will move out of the way. Grab the pipe and use it to fix the heater.
+						</span>
 					</p>
 				</details>
 				
@@ -1715,19 +1745,34 @@
 						</span>
 					</p>
 					<p>
-						Solution Part 2: ||Make sure the left lever of the basement tile is on, the right lever on the basement tile is off, and the bottom right lever of the forest tile isSetup the tiles as shown here
+						Solution Part 2: 
+						<span class="spoiler">
+							Make sure the left lever of the basement tile is on, the right lever on the basement tile is off, and the bottom right lever of the forest tile is. Setup the tiles as shown here:
+						</span>
 					</p>
 					<p>
-						(insert image)
+						
+						<span class="spoiler">
+							<img src="Images/MountainT7LavaLoop1Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 1">
+						</span>
 					</p>
 					<p>
-						The minecart will fill with lava when passing under the lavafall. After dropping the minecart at the station, run to the giant ice patch. Once the minecart enters the elevator, slide the forest tile down, under the ice patch.
+						
+						<span class="spoiler">
+							The minecart will fill with lava when passing under the lavafall. After dropping the minecart at the station, run to the giant ice patch. Once the minecart enters the elevator, slide the forest tile down, under the ice patch.
+						</span>
 					</p>
 					<p>
-						(insert image)
+						
+						<span class="spoiler">
+							<img src="Images/MountainT7LavaLoop2Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 2">
+						</span>
 					</p>
 					<p>
-						When the minecart is near or on the ice, drop the anchor to break the ice. Once the minecart exits the forest tile, slide it back up to the elevator. The minecart will fill with lava once more. Once it reaches the heater, it will begin to fill with lava. When the heater is full, it will activate, unfreezing the waterwheel.
+						
+						<span class="spoiler">
+							When the minecart is near or on the ice, drop the anchor to break the ice. Once the minecart exits the forest tile, slide it back up to the elevator. The minecart will fill with lava once more. Once it reaches the heater, it will begin to fill with lava. When the heater is full, it will activate, unfreezing the waterwheel.
+						</span>
 					</p>
 				</details>
 				
@@ -1738,7 +1783,7 @@
 						With the waterwheel running, now we just need to get a new extractor tank. Burt offers to make us one, but at a price: crystals!
 					</p>
 					<p>
-						Hint 2: 
+						Hint 1: 
 						<span class="spoiler">
 							If you move *any* tile, the crystals in the minecart will be destroyed.
 						</span>
@@ -1753,13 +1798,22 @@
 						</span>
 					</p>
 					<p>
-						Solution: ||Set up the tiles as shown below. 
+						Solution: 
+						<span class="spoiler">
+							Set up the tiles as shown below:
+						</span>
 					</p>
 					<p>
-						(insert image)
+						
+						<span class="spoiler">
+							<img src="Images/MountainT7BurtPaint.jpg" class="img-responsive" alt="Mountain Burt Solution">
+						</span>
 					</p>
 					<p>
-						Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you Slider 7.
+						
+						<span class="spoiler">
+							Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you Slider 7.
+						</span>
 					</p>
 				</details>
 				
@@ -1784,16 +1838,22 @@
 					</span>
 				</p>
 				<p>
-					Solution:||There are 2 solutions. Only 1 of them will be possible for you, depending on your previous tile configuration.
+					Solution:
+					<span class="spoiler">
+						There are 2 solutions. Only 1 of them will be possible for you!!! It depends on your previous tile configuration. Don't forget to check the lever states!
+					</span>
 				</p>
 				<p>
-					(insert image here)
+					
+					<span class="spoiler">
+						<img src="Images/MountainT8_1Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 1">
+					</span>
 				</p>
 				<p>
-					(insert image here)
-				</p>
-				<p>
-					Don't forget to check the lever states!||
+					
+					<span class="spoiler">
+						<img src="Images/MountainT8_2Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 2">
+					</span>
 				</p>
 			</details>
 			

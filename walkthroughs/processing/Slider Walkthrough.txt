@@ -235,7 +235,7 @@ Solution: ||While on the starting tile, you can find the wrench in the bottom-le
 Some light will give you an opportunity to explore how the fungi works. Even better, Slider 3 is easily found with a little exploration.
 
 
-Solution: ||Move the tile you just got to the top right or bottom right corner of the grid. This will place it in the range of a light. The light will cause the fungi around the Slider to recede, alllwing you to pick up the third Slider.||
+Solution: ||Move the tile you just got to the top right or bottom right corner of the grid. This will place it in the range of a light. The light will cause the fungi around the Slider to recede, allowing you to pick up the third Slider.||
 
 
 ## Slider 4
@@ -262,7 +262,7 @@ Solution: ||Move the tile with the light underneath slider 4. This will allow yo
 ## Slider 6
 
 
-Here you'll find another light, though the cable has been chewed up by rats. The archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
+Here you'll find another light, though the cable has been chewed up by rats. The Archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
 
 
 Hint: ||You'll need to use the light on this tile in order to reach the flashlight, which is located on the slider with the big bridge.||
@@ -483,10 +483,10 @@ Solution: ||You can get a stick by sending a Stick into the hole. The Blobs will
 Customers are asking for a Fish and a Boat. You'll have to find a configuration to combine the components to make them.
 
 
-Fish Solution: ||(Images are not currently supported :( sorry)||
+Fish Solution: ||`<img src="Images/JungleFish.jpg" class="img-responsive" alt="Fish Solution">`||
 
 
-Boat Solution: ||(Images are not currently supported :( sorry)||
+Boat Solution: ||`<img src="Images/JungleShip.jpg" class="img-responsive" alt="Ship Solution">`||
 
 
 ## Slider 6
@@ -501,7 +501,7 @@ It's time for a race. With Chad!
 There are a number of race cones representing the horizontal track between where Chad starts and the bell on the fat tile. To set up the track, place tile 5 to the left of tile 2/3. Before you can race though, Chad asks for a flag.
 
 
-Flag Solution: ||(Images are not currently supported :( sorry)||
+Flag Solution: ||`<img src="Images/JungleFlag.jpg" class="img-responsive" alt="Flag Solution">`||
 
 
 ### Winning the Race
@@ -534,13 +534,13 @@ Fish Bowl Hint 1: ||The Fish Bowl requires 5 components to make.||
 Fish Bowl Hint 2: ||Try figuring out where the Duplicator tile has to be first, and build the rest of the tiles around it.||
 
 
-Crutches Solution: ||(Images are not currently supported :( sorry)||
+Crutches Solution: ||`<img src="Images/JungleCrutch.jpg" class="img-responsive" alt="Crutches Solution">`||
 
 
-Bandage Solution: ||(Images are not currently supported :( sorry)||
+Bandage Solution: ||`<img src="Images/JungleBandage.jpg" class="img-responsive" alt="Bandage Solution">`||
 
 
-Fish Bowl Solution: ||(Images are not currently supported :( sorry)||
+Fish Bowl Solution: ||`<img src="Images/JungleFishBowl.jpg" class="img-responsive" alt="Fish Bowl Solution">`||
 
 
 ## Slider 8
@@ -555,10 +555,10 @@ Hint 1: ||Think about how many components each Shape takes to make. The Minecart
 Hint 2: ||Try figuring out where the Duplicator tile has to be first, and build the rest of the tiles around it.||
 
 
-Minecart Solution: ||(Images are not currently supported :( sorry)||
+Minecart Solution: ||`<img src="Images/JungleMinecart.jpg" class="img-responsive" alt="Minecart Solution">`||
 
 
-Rails Solution: ||(Images are not currently supported :( sorry)||
+Rails Solution: ||`<img src="Images/JungleRails.jpg" class="img-responsive" alt="Rails Solution">`||
 
 
 ## Slider 9
@@ -1066,11 +1066,18 @@ Hint 2: ||You can use the Crystal Loop lever opposite from the entrance used by 
 Hint 3: ||You can move tiles while the minecart is in the Crystal Loop.||
 
 
-Solution: ||Set up the 4 tiles on the bottom as you did previously. Make sure the left lever on the basement tile is off, the bottom right lever on the forest tile is off, and the middle left lever on the forest tile is on.
-(insert image)
-This time, send the minecart around to the left. Make sure the bottom switch on the forest tile is off. Once the minecart is in the loop, move the tiles to form this configuration:
-(insert image)
-Then, flip the bottom switch to release the minecart from the loop. Make sure the top lever on the forest tile is on. The minecart will deliver a crystal to the generator, fixing it and powering the elevator again.||
+Solution: ||Set up the 4 tiles on the bottom as you did previously. Make sure the left lever on the basement tile is off, the bottom right lever on the forest tile is off, and the middle left lever on the forest tile is on.||
+
+
+||`<img src="Images/MountainT6_1Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 1">`||
+
+||This time, send the minecart around to the left. Make sure the bottom switch on the forest tile is off. Once the minecart is in the loop, move the tiles to form this configuration:||
+
+
+||`<img src="Images/MountainT6_2Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 2">`||
+
+
+||Then, flip the bottom switch to release the minecart from the loop. Make sure the top lever on the forest tile is on. The minecart will deliver a crystal to the generator, fixing it and powering the elevator again.||
 
 
 ## Slider 7
@@ -1086,11 +1093,18 @@ Hint 1: ||If you move the tile the minecart is on it'll stop. However, you can m
 
 Hint 2: ||The tile the minecart exits the elevator from is not the tile it uses to go back in.||
 
-Solution: ||First, turn on the left lever and turn off the right lever on the basement tile. Setup the tiles like this:
-(insert image here)
-As the minecart makes its way to the top layer, slide tiles to create this configuration. You'll have to flip the left lever on the basement tile to the off position. Make sure not to move the tile the minecart is on!
-(insert image here)
-Once the minecart goes down the elevator, talk to the engineer and she will move out of the way. Grab the pipe and use it to fix the heater.||
+Solution: ||First, turn on the left lever and turn off the right lever on the basement tile. Setup the tiles like this:||
+
+
+||`<img src="Images/MountainT7GoDown1Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 1">`||
+
+
+||As the minecart makes its way to the top layer, slide tiles to create this configuration. You'll have to flip the left lever on the basement tile to the off position. Make sure not to move the tile the minecart is on!||
+
+
+||`<img src="Images/MountainT7GoDown2Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 2">`||
+
+||Once the minecart goes down the elevator, talk to the engineer and she will move out of the way. Grab the pipe and use it to fix the heater.||
 
 
 
@@ -1108,18 +1122,25 @@ Hint 3: ||You can't make a full loop yet: one of the tiles will have to move a l
 Solution Part 1: ||You can pass the minecart under a lavafall to fill it with lava.||
 
 
-Solution Part 2: ||Make sure the left lever of the basement tile is on, the right lever on the basement tile is off, and the bottom right lever of the forest tile isSetup the tiles as shown here
-(insert image)
-The minecart will fill with lava when passing under the lavafall. After dropping the minecart at the station, run to the giant ice patch. Once the minecart enters the elevator, slide the forest tile down, under the ice patch.
-(insert image)
-When the minecart is near or on the ice, drop the anchor to break the ice. Once the minecart exits the forest tile, slide it back up to the elevator. The minecart will fill with lava once more. Once it reaches the heater, it will begin to fill with lava. When the heater is full, it will activate, unfreezing the waterwheel.
+Solution Part 2: ||Make sure the left lever of the basement tile is on, the right lever on the basement tile is off, and the bottom right lever of the forest tile is. Setup the tiles as shown here:||
+
+
+||`<img src="Images/MountainT7LavaLoop1Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 1">`||
+
+
+||The minecart will fill with lava when passing under the lavafall. After dropping the minecart at the station, run to the giant ice patch. Once the minecart enters the elevator, slide the forest tile down, under the ice patch.||
+
+||`<img src="Images/MountainT7LavaLoop2Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 2">`||
+
+
+||When the minecart is near or on the ice, drop the anchor to break the ice. Once the minecart exits the forest tile, slide it back up to the elevator. The minecart will fill with lava once more. Once it reaches the heater, it will begin to fill with lava. When the heater is full, it will activate, unfreezing the waterwheel.||
 
 
 ### Repairing the Gem Extractor
 With the waterwheel running, now we just need to get a new extractor tank. Burt offers to make us one, but at a price: crystals!
 
 
-Hint 2: ||If you move *any* tile, the crystals in the minecart will be destroyed.||
+Hint 1: ||If you move *any* tile, the crystals in the minecart will be destroyed.||
 
 
 Hint 2: ||You'll have to use the ice patch again|.|
@@ -1128,9 +1149,12 @@ Hint 2: ||You'll have to use the ice patch again|.|
 Hint 3: ||The tile with the crane on it is the only way for the minecart to reach Burt with a crystal.||
 
 
-Solution: ||Set up the tiles as shown below. 
-(insert image)
-Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you Slider 7.
+Solution: ||Set up the tiles as shown below:||
+
+
+||`<img src="Images/MountainT7BurtPaint.jpg" class="img-responsive" alt="Mountain Burt Solution">`||
+ 
+||Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you Slider 7.||
 
 
 ## Slider 8
@@ -1145,10 +1169,16 @@ Hint 1: ||You can't move any tiles during the loop. Plan your setup carefully! I
 Hint 2: ||The slider with the trees and pile of logs have very similar rail setups||
 
 
-Solution:||There are 2 solutions. Only 1 of them will be possible for you, depending on your previous tile configuration.
-(insert image here)
-(insert image here)
-Don't forget to check the lever states!||
+Solution:||There are 2 solutions. Only 1 of them will be possible for you!!! It depends on your previous tile configuration. Don't forget to check the lever states!||
+
+
+||`<img src="Images/MountainT8_1Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 1">`||
+
+
+||`<img src="Images/MountainT8_2Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 2">`||
+
+
+
 
 
 
