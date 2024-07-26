@@ -303,7 +303,7 @@ Solution: ||You can either corner the rat to catch it or chase it onto some remo
 ## Slider 9
 
 
-The archeologist has already made a great discovery on tile 8, but she can't quite read the runes. Light up the entire map!
+The archeologist has already made a great discovery on tile 8, but she can't quite read the runes. Light up the entire map! It doesn’t matter if the tiles are in the “correct” spots, so long as they are all lit up.
 
 
 Hint 1: ||Try to avoid "double covering" tiles with multiple lights.||
@@ -327,7 +327,7 @@ Congratulations, you finished the Chloro Caves! On the final tile you'll find a 
 ________________
 
 
-# Shiting Seas
+# Shifting Seas
 
 
 The Shifting Seas is Slider's water level. Like most water levels, there's a twist: instead of sliding tiles around, you rotate them. There's a lot to do and explore!
@@ -1143,7 +1143,7 @@ With the waterwheel running, now we just need to get a new extractor tank. Burt 
 Hint 1: ||If you move *any* tile, the crystals in the minecart will be destroyed.||
 
 
-Hint 2: ||You'll have to use the ice patch again|.|
+Hint 2: ||You'll have to use the ice patch again.||
 
 
 Hint 3: ||The tile with the crane on it is the only way for the minecart to reach Burt with a crystal.||
