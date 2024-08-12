@@ -80,6 +80,9 @@ Slider is hard! Most of the people I watch often have to take breaks between pla
 
 
 In general, each area's hardest puzzles are the 3rd and 6th tile puzzles. (This is because you have enough tiles for interesting interactions to happen, and it is before you get too many tiles that moving the grid is annoying!) The difficulty curve of each area is intentionally not smooth because it makes puzzles and challenges a bit more memorable.
+
+
+If you want a video walkthrough, someone posted a full completion of the game on YouTube as well (Thank you @dogedeaf)! You can find it with timestamps in the pinned comment here: `<a href="https://youtu.be/BI7BdPrJBok" target="_blank" rel="noopener noreferrer">https://youtu.be/BI7BdPrJBok</a>`
 ________________
 
 
@@ -277,10 +280,18 @@ Solution Part 2: ||Find the tile with the flashlight (the second slider you got,
 ## Slider 7
 
 
-This tile is dominated by a massive field of fungi, with Slider 7 deep inside. You'll have to make full use of what you've learned so far to solve the puzzle, but it is possible!
+This tile is dominated by a massive field of fungi, with Slider 7 deep inside. You'll have to make full use of what you've learned so far to solve the puzzle, but it is possible! Make sure you've turned on the Station light too.
 
 
-Hint: ||This puzzle requires multiple moves, keep that in mind when setting up your grid.||
+Hint 1: ||This puzzle requires multiple moves, keep that in mind when setting up your grid.||
+
+
+Hint 2: ||There is no arrangement of tiles that will light up a full path from the outside of the fungus to the next slider.||
+
+
+Hint 3: ||You can move tiles around even while standing inside the fungus patch (assuming you're on a lit up space).||
+
+
 
 
 Solution: ||Place the power station light in the center of the grid, the other light tile in the top left, and Slider 6 in the top middle. Enter the fungi field, and stand in the row where there is no rock on the right side. Slide Slider 6 to the right, and then move the single light tile underneath Slider 6. You can then pick up Slider 7.||
@@ -985,7 +996,7 @@ Crate Solution: ||Use the anchor to smash the crate in front of the door.||
 Key Solution Part 1: ||Visit Burt the Craftsman on the bottom left of the bottom layer. He will generously give you a bucket for free. Bring it back to Jimbobby.||
 
 
-Solution Part 2: ||Set up the soldier with the lava bucket on the bottom row of the bottom layer. Place the slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the Anchor or pick it up and bring it near a lava source to melt it. 
+Solution Part 2: ||Set up the soldier with the lava bucket on the bottom row of the bottom layer. Place the slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the Anchor or pick it up and bring it near a lava source to melt it.|| 
 
 
 ## Slider 4
@@ -1038,7 +1049,7 @@ Sara, a researcher from the MRI, is investigating the crystal extractor. To help
 Power Hint 1: ||You can try using the waterwheel, but you won't find a valid setup. Is there another power source available?||
 
 
-Power Hint 1: ||There's a generator powering the elevator||
+Power Hint 2: ||There's a generator powering the elevator||
 
 
 Solution: ||Use the Anchor to connect the elevator generator to the exposed wire of the water wheel power line, which will connect to the extractor.||
@@ -1046,9 +1057,10 @@ Solution: ||Use the Anchor to connect the elevator generator to the exposed wire
 
 Crystal Hint: ||You can form a single, continuous track from the powered rails to the crystal depositor to the crystal extractor. Make sure to pay attention to which direction the junctions are pointing.||
 
-Crystal Solution: ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal. The tile setup looks like this:
-(insert image)
-||
+Crystal Solution: ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal. The tile setup looks like this:||
+
+
+||`<img src="Images/MountainT5CrystalsPaint.jpg" class="img-responsive" alt="Mountain First Crystals Setup">`||
 
 
 
@@ -1269,7 +1281,7 @@ A wizard in the village in the past has the gem, but he's asking for one million
 Hint: ||The safe in the desert casino has a lot of money!||
 
 
-Solution: ||Shoot the laser through the present portal into the top left of the map to the portal leading to the Desert. You'll have to blow up the rock first. Go through the portal, set the bombs outside the right side of the casino, take the money, and run away! You can pay the wizard in the past village and grab the Jungle Gem and the Gem Fuel recipe.||
+Solution: ||The Foreman doesn't want us to use the laser... but Chad can do something about it. Set up the laser so it will fire to the Casino and go through the portal. Set the bombs outside the right side of the casino and Chad will handle turning the laser on. Then, take the money and run away! You can pay the wizard in the past village and grab the Jungle Gem and the Gem Fuel recipe.||
 
 
 ### MagiTech Gem (Pink)
@@ -1412,4 +1424,4 @@ Each area has a hidden Breadge to collect. They are all accessible even after be
 
 ## Challenge Achievements
 
-If you're still hungry for more challenges, each area has a bonus achievement. Most of these achievements require you to finish an area in a specific way, so you'll probably have to do it from a fresh save. There is also a one-hour speedrunning achievement that we have enjoyed a lot. But you'll have to figure those out for yourself :)
+If you're still hungry for more challenges, each area has a bonus achievement. Most of these achievements require you to finish an area in a specific way, so you'll probably have to do it from a fresh save. Usually using cheats will disable these challenge achievements, but you can use the "Teleport to Area", "Spawn Anchor", and "Scroll + Boots" cheats to get to each of the areas for the achievement (*any cheat disables the speedrunning achievements on that save). There is also a one-hour speedrunning achievement that we think you'll enjoy a lot. Good luck figuring these out!

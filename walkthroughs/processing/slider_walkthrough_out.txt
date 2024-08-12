@@ -21,6 +21,9 @@
 			<p>
 				In general, each area's hardest puzzles are the 3rd and 6th tile puzzles. (This is because you have enough tiles for interesting interactions to happen, and it is before you get too many tiles that moving the grid is annoying!) The difficulty curve of each area is intentionally not smooth because it makes puzzles and challenges a bit more memorable.
 			</p>
+			<p>
+				If you want a video walkthrough, someone posted a full completion of the game on YouTube as well (Thank you @dogedeaf)! You can find it with timestamps in the pinned comment here: <a href="https://youtu.be/BI7BdPrJBok" target="_blank" rel="noopener noreferrer">https://youtu.be/BI7BdPrJBok</a>
+			</p>
 		</details>
 		
 	</div>
@@ -277,7 +280,7 @@
 				<summary class="header-2">Slider 4</summary>
 
 				<p>
-					My god, another light! The fungi surely stand no chance against your electrical might nowï¿½
+					My god, another light! The fungi surely stand no chance against your electrical might now…
 				</p>
 				<p>
 					Hint: 
@@ -337,12 +340,24 @@
 				<summary class="header-2">Slider 7</summary>
 
 				<p>
-					This tile is dominated by a massive field of fungi, with Slider 7 deep inside. You'll have to make full use of what you've learned so far to solve the puzzle, but it is possible!
+					This tile is dominated by a massive field of fungi, with Slider 7 deep inside. You'll have to make full use of what you've learned so far to solve the puzzle, but it is possible! Make sure you've turned on the Station light too.
 				</p>
 				<p>
-					Hint: 
+					Hint 1: 
 					<span class="spoiler">
 						This puzzle requires multiple moves, keep that in mind when setting up your grid.
+					</span>
+				</p>
+				<p>
+					Hint 2: 
+					<span class="spoiler">
+						There is no arrangement of tiles that will light up a full path from the outside of the fungus to the next slider.
+					</span>
+				</p>
+				<p>
+					Hint 3: 
+					<span class="spoiler">
+						You can move tiles around even while standing inside the fungus patch (assuming you're on a lit up space).
 					</span>
 				</p>
 				<p>
@@ -377,7 +392,7 @@
 				<summary class="header-2">Slider 9</summary>
 
 				<p>
-					The archeologist has already made a great discovery on tile 8, but she can't quite read the runes. Light up the entire map! It doesnï¿½t matter if the tiles are in the ï¿½correctï¿½ spots, so long as they are all lit up.
+					The archeologist has already made a great discovery on tile 8, but she can't quite read the runes. Light up the entire map! It doesn’t matter if the tiles are in the “correct” spots, so long as they are all lit up.
 				</p>
 				<p>
 					Hint 1: 
@@ -1039,7 +1054,7 @@
 				<summary class="header-2">Scroll of Realigning</summary>
 
 				<p>
-					Head into the temple, move aside some rubble, and pick up the Scroll of Realigning. Though there's no prize without a trapï¿½
+					Head into the temple, move aside some rubble, and pick up the Scroll of Realigning. Though there's no prize without a trap…
 				</p>
 				<p>
 					Hint: 
@@ -1483,7 +1498,10 @@
 					</span>
 				</p>
 				<p>
-					Solution Part 2: ||Set up the soldier with the lava bucket on the bottom row of the bottom layer. Place the slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the Anchor or pick it up and bring it near a lava source to melt it. 
+					Solution Part 2: 
+					<span class="spoiler">
+						Set up the soldier with the lava bucket on the bottom row of the bottom layer. Place the slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the Anchor or pick it up and bring it near a lava source to melt it.
+					</span> 
 				</p>
 			</details>
 			
@@ -1572,7 +1590,7 @@
 						</span>
 					</p>
 					<p>
-						Power Hint 1: 
+						Power Hint 2: 
 						<span class="spoiler">
 							There's a generator powering the elevator
 						</span>
@@ -1590,13 +1608,16 @@
 						</span>
 					</p>
 					<p>
-						Crystal Solution: ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal. The tile setup looks like this:
+						Crystal Solution: 
+						<span class="spoiler">
+							Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal. The tile setup looks like this:
+						</span>
 					</p>
 					<p>
-						(insert image)
-					</p>
-					<p>
-						||
+						
+						<span class="spoiler">
+							<img src="Images/MountainT5CrystalsPaint.jpg" class="img-responsive" alt="Mountain First Crystals Setup">
+						</span>
 					</p>
 				</details>
 				
@@ -1999,7 +2020,7 @@
 					<p>
 						Solution: 
 						<span class="spoiler">
-							Shoot the laser through the present portal into the top left of the map to the portal leading to the Desert. You'll have to blow up the rock first. Go through the portal, set the bombs outside the right side of the casino, take the money, and run away! You can pay the wizard in the past village and grab the Jungle Gem and the Gem Fuel recipe.
+							The Foreman doesn't want us to use the laser... but Chad can do something about it. Set up the laser so it will fire to the Casino and go through the portal. Set the bombs outside the right side of the casino and Chad will handle turning the laser on. Then, take the money and run away! You can pay the wizard in the past village and grab the Jungle Gem and the Gem Fuel recipe.
 						</span>
 					</p>
 				</details>
@@ -2240,7 +2261,7 @@
 				<summary class="header-2">Challenge Achievements</summary>
 
 				<p>
-					If you're still hungry for more challenges, each area has a bonus achievement. Most of these achievements require you to finish an area in a specific way, so you'll probably have to do it from a fresh save. There is also a one-hour speedrunning achievement that we have enjoyed a lot. But you'll have to figure those out for yourself :)				</p>
+					If you're still hungry for more challenges, each area has a bonus achievement. Most of these achievements require you to finish an area in a specific way, so you'll probably have to do it from a fresh save. Usually using cheats will disable these challenge achievements, but you can use the "Teleport to Area", "Spawn Anchor", and "Scroll + Boots" cheats to get to each of the areas for the achievement (*any cheat disables the speedrunning achievements on that save). There is also a one-hour speedrunning achievement that we think you'll enjoy a lot. Good luck figuring these out!				</p>
 			</details>
 			
 		</details>
