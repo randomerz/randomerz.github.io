@@ -1,10 +1,35 @@
 import re
+import argparse
+import codecs
 
-input_file = 'Slider Walkthrough.txt'
-output_file = 'slider_walkthrough_out.txt'
+parser = argparse.ArgumentParser(
+    prog='Slider Text to HTML',
+    description='Translates the Slider format into HTML for the web page',
+)
 
-file_in = open(input_file, 'r', encoding="utf8")
-file_out = open(output_file, 'w')
+parser.add_argument('--language', '-l', default='en', help='en: English, kr: Korean')
+
+args = parser.parse_args()
+language_mode = args.language
+
+print(language_mode)
+
+language_to_input_suffix = {
+    'en': '',
+    'kr': ' Korean',
+}
+
+language_to_output_suffix = {
+    'en': '',
+    'kr': '_kr',
+}
+
+
+input_file = 'Slider Walkthrough%s.txt' % language_to_input_suffix[language_mode]
+output_file = 'slider_walkthrough_out%s.txt' % language_to_output_suffix[language_mode]
+
+file_in = codecs.open(input_file, 'r', encoding="utf_8")
+file_out = open(output_file, 'w', encoding="utf_8")
 
 is_in_code_block = False
 MAX_FOLDOUTS = 3
