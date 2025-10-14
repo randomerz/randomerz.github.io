@@ -229,7 +229,7 @@ You start off with the first tile, having entered the caves from the south. If y
 Hint: ||There are many areas on the edges of the map you can access with just this first tile. Explore a bit.||
 
 
-Solution: ||While on the starting tile, you can find the wrench in the bottom-left and the wire cutters in the top-left of the outside map. Return them to the worker at the top-right of the grid, who will turn on the light and give you the second Slider.||
+Solution: ||While on the starting tile, you can find the wrench in the top-left and the wire cutters in the bottom-left of the outside map. Return them to the worker at the top-right of the grid, who will turn on the light and give you the second Slider.||
 
 
 ## Slider 3
