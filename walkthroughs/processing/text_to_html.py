@@ -7,7 +7,7 @@ parser = argparse.ArgumentParser(
     description='Translates the Slider format into HTML for the web page',
 )
 
-parser.add_argument('--language', '-l', default='en', help='en: English, kr: Korean')
+parser.add_argument('--language', '-l', default='en', help='en: English, kr: Korean, cn: Chinese')
 
 args = parser.parse_args()
 language_mode = args.language
@@ -17,11 +17,13 @@ print(language_mode)
 language_to_input_suffix = {
     'en': '',
     'kr': ' Korean',
+    'cn': ' Chinese',
 }
 
 language_to_output_suffix = {
     'en': '',
     'kr': '_kr',
+    'cn': '_cn',
 }
 
 
@@ -115,27 +117,27 @@ for line in file_in.readlines():
 
     # Comment
     # if re.search('^\[\/\/\]: #', line):
-    if re.search('\[\/\/\]: #', line):
+    if re.search(r'\[\/\/\]: #', line):
         continue
 
     # Generated new-page breaks
-    if re.search('^________________', line):
+    if re.search(r'^________________', line):
         continue
 
     # Generated document comments
-    if re.search('^\[[a-z]\]', line):
+    if re.search(r'^\[[a-z]\]', line):
         continue
 
     # Code blocks
-    if re.search('```', line):
+    if re.search(r'```', line):
         is_in_code_block = not is_in_code_block
         continue
 
     # Code segments don't really matter for now I dont think
-    line = re.sub('`', '', line)
+    line = re.sub(r'`', '', line)
 
     # Foldouts
-    foldout_match = re.search('^#{1,3} ', line)
+    foldout_match = re.search(r'^#{1,3} ', line)
     if foldout_match:
         foldout_level = foldout_match.group().count('#')
         line = line[foldout_match.span()[1]:]
@@ -163,9 +165,9 @@ for line in file_in.readlines():
     line = new_line() + '<p>' + new_line_indent() + line
 
     # Spoiler
-    while re.search('.*\|\|.+\|\|.*', line):
-        line = re.sub('\|\|', new_line() + HTML_SPOILER_START + new_line_indent(), line, 1)
-        line = re.sub('\|\|', new_line_unindent() + HTML_SPOILER_END, line, 1)
+    while re.search(r'.*\|\|.+\|\|.*', line):
+        line = re.sub(r'\|\|', new_line() + HTML_SPOILER_START + new_line_indent(), line, count=1)
+        line = re.sub(r'\|\|', new_line_unindent() + HTML_SPOILER_END, line, count=1)
     
     line =  line + unindent() + '</p>'
     
