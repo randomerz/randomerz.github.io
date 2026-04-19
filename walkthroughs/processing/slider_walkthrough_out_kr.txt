@@ -1,6 +1,9 @@
 <div class="row top-line animate-box">
         <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
                 <h2>Slider 공략 가이드</h2>
+		<p class="text-right">
+			<a href="./slider.html">🇺🇸</a> <a href="./slider-kr.html">🇰🇷</a> <a href="./slider-cn.html">🇨🇳</a>
+		</p>
 
 <p>
 	이 문서는 <a href="../games/slider.html">Slider</a> 게임의 공략 가이드입니다. 각 퍼즐에 대한 힌트와 해답이 포함되어 있으며, 접을 수 있는 문단과 스포일러 태그로 각각 구분되어 있습니다. 가이드에 대한 피드백이 있으시다면 알려주시면 업데이트하겠습니다!

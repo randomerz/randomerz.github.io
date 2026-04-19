@@ -1,6 +1,9 @@
 <div class="row top-line animate-box">
         <div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
                 <h2>滑块世界通关指南</h2>
+		<p class="text-right">
+			<a href="./slider.html">🇺🇸</a> <a href="./slider-kr.html">🇰🇷</a> <a href="./slider-cn.html">🇨🇳</a>
+		</p>
 
 <p>
 	这是<a href="../games/slider.html">《滑块世界》</a>的通关指南。为了不揭露太多谜底，我们事先把所有提示遮住了！如果想显示哪一个提示，请把鼠标放在提示上方。
