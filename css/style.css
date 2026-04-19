@@ -644,6 +644,11 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
   color: #c7c5bf;
 }
+.fh5co-heading ul {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #c7c5bf;
+}
 .fh5co-heading span {
   display: block;
   margin-bottom: 10px;
